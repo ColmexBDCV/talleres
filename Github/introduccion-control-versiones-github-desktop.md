@@ -18,7 +18,7 @@ translation-reviewer:
 - Maria José Afanador-Llach
 - Víctor Gayol
 adaptation-by:
-- Silvia Eunice Gutiérrez De la Torre
+- Silvia E. Gutiérrez De la Torre
 review-ticket: https://github.com/programminghistorian/ph-submissions/issues/64
 layout: lesson
 difficulty: 1
@@ -76,21 +76,24 @@ A medida que en nuestras investigaciones utilizamos herramientas digitales y alm
 
 En concreto, el control de versiones es útil para facilitar la colaboración. De hecho, uno de los motivos para que iniciara Git fue porque quienes trabajaban sobre el núcleo Linux requerían un modelo para que varias personas trabajaran al mismo tiempo en un proyecto de dimensiones considerables. Si dos personas están modificando un mismo documento con el control de versiones pueden eventualmente 'fusionar' los cambios y resolver los 'conflictos' decidiendo cómo fusionarlas y dar lugar a una 'tercera' versión.
  
-## Diferencias entre Git y GitHub
+## Git
 
 Aunque a veces se utilizan como sinónimos, Git y GitHub no son lo mismo. Git es un sistema específico diseñado para controlar versiones en un entorno Linux; fue desarrollado por Linus Torvalds con el objetivo primordial de gestionar código fuente. Por supuesto, existen otros [controles de versiones](https://es.wikipedia.org/wiki/Programas_para_control_de_versiones) pero su uso no está tan difundido. Git puede referirse tanto a una forma de controlar versiones como al programa utilizado para llevar a cabo dicha tarea.
 
-En cambio, GitHub es una compañía que aloja repositorios Git (más detalles abajo) y que proporciona un programa específico para usar Git. Entre las modalidades de uso, destaca el programa 'GitHub Desktop', sobre el que trata este tutorial. Actualmente, si tenemos en cuenta el [número de proyectos y de usuarios](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities#Popularity), es posible afirmar que GitHub es la plataforma más popular para alojar en abierto el código de proyectos digitales.
+## Github
 
-Pese a que GitHub está diseñado originalmente para publicar código fuente, algunos proyectos, como *The Programming Historian en español*, lo utilizan para controlar las versiones y para gestionar el flujo de trabajo de sus publicaciones, libros de texto, etc. Así que familiarizarte con GitHub no solo te permitirá controlar las versiones de tu documento sino contribuir a los proyectos que utilizan GitHub. En esta lección nuestro objetivo es ofrecer una introducción al funcionamiento básico de los objetivos y principios del **control de versiones de un archivo de texto plano**. La lección no es exhaustiva pero proporciona un punto de partida para que puedas seguir aprendiendo por tu cuenta.
+En cambio, GitHub es una compañía para alojar proyectos, está basada en web y utiliza el sistema de control de versiones Git (más detalles abajo). Entre las modalidades de uso, destaca el programa 'GitHub Desktop', sobre el que trata este tutorial. Por el [número de proyectos y de usuarios](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities#Popularity), podríamos decir que GitHub es la plataforma más popular para alojar en abierto el código de proyectos digitales.
 
-### ¿Por qué no utilizar Dropbox o Google Drive?
+Estos proyectos se guardan en "repostorios". Un repositorio es el lugar donde se alojan los distintos archivos de un proyecto. De un repo de Github nos interesan las siguiente secciones
 
-Dropbox, Google Drive y otros servicios ofrecen alguna forma de controlar las versiones en sus sistemas. A veces esto es suficiente para tus necesidades. Sin embargo, existen algunas ventajas por las que vale la pena utilizar un control de versiones como Git:
-
-* Mayor cobertura de lenguaje: Git admite tanto texto como lenguajes de programación. A medida que la investigación incluya métodos informáticos y herramientas digitales, se vuelve necesario disponer de una plataforma que gestione publicaciones tradicionales (artículos, libros, etc.) pero también nuevos tipos de publicaciones como código, conjunto de datos, etc.
-* Más control: un sistema de control de versiones te dará mayor poder para gestionar los cambios de tus documentos.
-* Historial más útil: si utilizas un sistema de control como Git, podrás producir un historial de tu documento. A través de este historial tú y tus colaboradores podréis navegar fácilmente por las distintas etapas del documento. 
+1) Code
+     ​a) Commits: aquí podemos ver cuántos cambios se han "enviado" al repositorio
+     ​b) Branches: aquí aparecen cuántas ramas del proyecto existen
+     ​c) Releases: cuando se desarrolla un proyecto generalmente se publican varias versiones del mismo, aquí se puede ver cuáles versiones han salido (una forma común de nombrarlas es con números consecutivos 0.1 0.2, 1.0, 2.0, etc.)
+     ​d) Contributors: aquí aparecen todos los usuarios y usuarias que han aportado algo al repositorio
+     ​e) License: en este espacio se encuentra más información sobre la licencia del código
+2) Issues: este espacio está diseñado para que se compartan los reportes de errores que pueden hacer tanto las personas en el equipo como otra gente que haya usado el código y quiera ayudar dando retroalimentación
+3) Pull requests: propuestas de cambios directos al código
 
 ### Algunos proyectos académicos que utilizan control de versiones
 
@@ -176,7 +179,8 @@ Para hacer esto debes *anotar* los cambios.
 
 Al *anotar* ('commit') un cambio, comunicas a Git que quieres registrar las modificaciones realizadas. Aunque *anotar* puede parecer similar a guardar un archivo, el objetivo es distinto. A menudo guardamos diferentes versiones de un documento; ahora bien, guardar un documento, en realidad, significa que puedes cerrar el archivo y volver a él más tarde y que su estado será el mismo, es decir, no se habrán producido perdidas. *Anotar*, en cambio, implica tomar una instantánea de un archivo en un momento determinado y documentar información sobre los cambios realizados.
 
-{% include figure.html filename="intro-github-3.png" caption="Primera anotación" %}
+![Primera anotación](intro-github-3.png)
+
 
 Para anotar un cambio debes dar un resumen de los cambios y, de manera opcional, incluir un mensaje. Es importante que pienses con cuidado cuándo debes anotar los cambios. El control de versiones solo es útil si anotas los cambios de manera eficiente. A veces tendemos a anotar los cambios solo cuando hemos terminado de trabajar sobre un documento. Sin embargo, esto no refleja los cambios importantes realizados durante todo el proceso. 
 
