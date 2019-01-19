@@ -99,15 +99,16 @@ Estos proyectos se guardan en "repostorios". Un repositorio es el lugar donde se
 
 Utilizar un control de versiones se ha consolidado en algunas disciplinas científicas, aunque su adopción está lejos de ser universal. En las humanidades y en las ciencias sociales, el uso de Git es mucho menos frecuente. Los proyectos que listamos a continuación muestran algunas de las posibilidades del uso de Git en un entorno académico: 
 
-* [The Source Caster](https://github.com/datapraxis/sourcecaster) es un proyecto que busca dar tips de líneas de comando que sirven para actividades comunes entre los académicos: pasar pdfs a texto, extraer imágenes de archivos, etc.
-*[Talleres de la BDCV]() 
+
 * [The Programming Historian en español](https://github.com/programminghistorian/jekyll) utiliza GitHub en su flujo de trabajo para gestionar la [revista](https://github.com/programminghistorian/jekyll/issues), las [lecciones](/es/guia-para-autores) y para producir la [web](/posts/how-we-moved-to-github).
 * [Python Programming for the Humanities](https://github.com/fbkarsdorp/python-course) es un tutorial introductorio sobre el lenguaje de programación Python. 
+* [R para Ciencia de Datos](https://github.com/cienciadedatos/r4ds): repositorio para la traducción colaborativa de este libro súper útil de RStats para Ciencia de Datos
 * [ProfHacker](http://chronicle.com/blogs/profhacker/tag/github) ha publicado varias entradas de blog sobre proyectos que usan GitHub en un contexto académico.
+* [the sourcecaster](https://github.com/datapraxis/sourcecaster) líneas de comando para actividades comunes entre los académicos: pasar pdfs a texto, extraer imágenes de archivos, etc.
+*[Talleres de la BDCV](https://github.com/ColmexBDCV/talleres): repositorio de nuestros cursos
 
-Nuevos proyectos surgen de manera constante y muchas de las herramientas que utilizas en las humanidades digitales se hospedan en GitHub; por este motivo, GitHub puede ser útil para utilizar con mayor facilidad alguna de estas herramientas.
 
-## Cómo empezar
+## Github Desktop: Cómo empezar
 
 GitHub Desktop, la aplicación de escritorio de GitHub, te permitirá empezar a utilizar un control de versiones sin problemas. GitHub Desktop es, de hecho, una Interfaz Gráfica de Usuario (GUI, por sus siglas en inglés) diseñada para facilitar el uso de Git. Las interfaces gráficas de usuario permiten al usuario interactuar con el programa a través de un dispositivo visual que reemplaza la línea de comandos. Aunque utilizar la línea de comandos ofrece muchas ventajas a largo plazo, si utilizas GitHub Desktop reducirás la curva de aprendizaje; encontrarás más recursos sobre la línea de comando al final de la lección.
 
@@ -117,15 +118,15 @@ Uno de los aspectos más complejos del uso de GitHub es la terminología. El nom
 
 ### Regístrate con una cuenta en GitHub
 
-Puesto que vamos a utilizar GitHub, necesitarás regístrate con una cuenta en [GitHub](https://github.com) si no lo has hecho ya. Para [estudiantes](https://education.github.com/pack) e [investigadores](https://github.com/blog/1840-improving-github-for-science), GitHub ofrece repositorios privados de manera gratuita. Este tipo de repositorios no son necesarios pero quizá esta opción te seduzca si quieres mantener tu trabajo en privado.
+Puesto que vamos a utilizar GitHub, necesitarás regístrate con una cuenta en [GitHub](https://github.com). Para [estudiantes](https://education.github.com/pack) e [investigadores](https://github.com/blog/1840-improving-github-for-science), GitHub ofrece repositorios privados de manera gratuita. Este tipo de repositorios no son necesarios pero quizá esta opción te interese si quieres que tu código no sea necesariamente público.
 
 ### Instala GitHub Desktop
 
-Te recomendamos que sigas el procedimiento explicado en la [página de instalación de GitHub Classic](https://central.github.com/mac/latest). Tras descargar GitHub Desktop Classic e instalarlo, ya podemos empezar a usar el programa con un archivo de texto plano.
+Tras descargar [GitHub Desktop](https://desktop.github.com/) e instalarlo, ya podemos empezar a usar el programa con un archivo de texto plano.
 
 ## Control de versiones y texto plano
 
-Los sistemas de control de versiones como Git funcionan mejor con archivos de texto plano. Este tipo de archivos contienen un marcado muy sencillo; por el contrario, los archivos Word (u otros generados con procesadores similares) producen código que no es legible para los humanos. Además, cualquier archivo guardado como '.txt' puede abrirse sin problemas con Word, LibreOffice o Notepad. La portabilidad es la principal ventaja del texto plano pues estos archivos pueden abrirse y ejecutarse en la mayoría de ordenadores.
+Los archivos de texto plano contienen un marcado muy sencillo; por el contrario, los archivos Word (u otros generados con procesadores similares) producen código que no es legible para los humanos. Además, cualquier archivo guardado como '.txt' puede abrirse sin problemas con Word, LibreOffice o Notepad. La portabilidad es la principal ventaja del texto plano pues estos archivos pueden abrirse y ejecutarse en la mayoría de ordenadores.
 
 Pese a las ventajas evidentes de escribir nuestros documentos en texto plano, también debemos señalar algunas limitaciones. Los archivos de texto plano en sí no permiten marcar algunas palabras en *cursiva* o bien con **negrita**; tampoco es posible incluir encabezado o citaciones. Para realizar esto necesitaremos una sintaxis adicional: 'markdown'. 
 
