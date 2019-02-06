@@ -3,6 +3,7 @@
 # Adaptado de: https://programminghistorian.org/es/lecciones/procesamiento-basico-de-textos-en-r
 
 
+
 #### INTRODUCCIÓN ####
 
 
@@ -20,8 +21,12 @@
 # 1.1 Revisar encoding #
 #TIP: Recuerden que si la codificación no es correcta tienen que ir a File - Reopen with Encoding 
 #y seleccionar UTF-8
-# 1.2 Establecer el directorio de trabajo (donde estén tus datos)
-setwd("C:/Users/segutierrez/Dropbox/RLadiesCDMX_talleres")
+# 1.2 Revisar el directorio de trabajo
+getwd()
+# 1.3 Establecer el directorio de trabajo (donde estén tus datos)
+#P:\ --> cambiar dirección de las diagonales invertida a diagonal derecha
+setwd("P:/")
+list.files()
 
 ###### PASO 2 #####
 # instalar paquetes #
@@ -32,8 +37,7 @@ setwd("C:/Users/segutierrez/Dropbox/RLadiesCDMX_talleres")
 #install.packages("dplyr")
 #install.packages("readr")
 #install.packages("ggplot2")
-
-#install.packages("tokenizers")
+install.packages("tokenizers")
 #install.packages("wordcloud")
 
 ###### PASO 3 #####
@@ -50,7 +54,7 @@ library(ggplot2)
 
 ###### PASO 4 #####
 # asignar el texto que vamos a analizar a una variable #
-
+# (fuente: https://cnnespanol.cnn.com/2016/01/12/discurso-completo-de-obama-sobre-el-estado-de-la-union/)
 texto <- "También entiendo que como es temporada de elecciones, las expectativas para lo que lograremos este año son bajas. Aún así, señor Presidente de la Cámara de Representantes, aprecio el enfoque constructivo que usted y los otros líderes adoptaron a finales del año pasado para aprobar un presupuesto, y hacer permanentes los recortes de impuestos para las familias trabajadoras. Así que espero que este año podamos trabajar juntos en prioridades bipartidistas como la reforma de la justicia penal y ayudar a la gente que está luchando contra la adicción a fármacos de prescripción. Tal vez podamos sorprender de nuevo a los cínicos."
 
 #Puedes observar el contenido que asignaste a la variable "texto"
@@ -59,7 +63,7 @@ texto
 ###### PASO 5 #####
 # dividir un texto en palabras y oraciones #
 
-#### Palabras ####
+#### Tokenizar Palabras ####
 ?tokenize_words
 palabras <- tokenize_words(texto)
 
@@ -76,7 +80,7 @@ class(palabras)
 # lo que hace es quitar todos los signos de puntuación y espacios
 # convertir todo a minúsculas y dividir el texto en palabras individuales
 
-#### Oraciones ####
+#### Tokenizar Oraciones ####
 ?tokenize_sentences
 oraciones <- tokenize_sentences(texto)
 oraciones
@@ -146,9 +150,8 @@ df$frecuencia
 arrange(df, desc(frecuencia))
 
 
-####################################################################################################
+##### LEER TU PROPIO ARCHIVO DE TEXTO
 # En la sección pasada vimos cómo hacer pruebas con un párrafo, ¡ahora veamos cómo leer nuestros propios archivos de texto!
-###### Paso 1: Leyendo tu archivo #####
 
 #Indica la ubicación de tu texto
 archivoAMLO <- "textos/20181201_amlo.txt"
@@ -197,16 +200,17 @@ wordcloud(words = amlodf_sinstopwords$palabra, freq = amlodf_sinstopwords$frecue
 #https://rstudio-pubs-static.s3.amazonaws.com/40817_63c8586e26ea49d0a06bcba4e794e43d.html
 
 
-################################################################################################
+#### CARGAR TUS PROPIOS METADATOS
 
 # Paso 1. Carga los metadatos
 getwd()
 metadatos <- read_csv("metadatos_presidentes.csv")
+View(metadatos)
 
 # Paso 2. Especifica en qué carpeta está tu corpus
 # OJO: fíjate que las diagonales estén en la dirección correcta,
 #si lo copias y pegas de Windows estarán al revés
-input_loc <- "C:/Users/segutierrez/Dropbox/RLadiesCDMX_talleres/textos"
+input_loc <- "P:/textos"
 
 #Paso 3. Para leer y guardar todos los .txt en la variable "texto"
 # corre el siguiente bloque de código:
@@ -240,6 +244,15 @@ qplot(metadatos$año, metadatos$palabras) + labs(x = "Año", y = "Número de pal
 qplot(metadatos$año, no_palabras, color = metadatos$partido, label= metadatos$presidente)+
   labs(x = "Año", y = "Número de palabras", color = "Partido del Presidente")
 
+
+#install.packages("ggrepel")
+#library(ggrepel)
+# geom_label_repel(aes(label = metadatos$presidente),
+#                  box.padding   = 0.35, 
+#                  point.padding = 0.5,
+#                  segment.color = 'grey50') +
+#   theme_classic()
+
 #Paso 6. Extrae las oraciones del texto con las funciones que ya aprendimos
 oraciones <- tokenize_sentences(texto)
 oraciones_palabras <- sapply(oraciones, tokenize_words)
@@ -266,8 +279,9 @@ mediana_longitud_oraciones <- sapply(longitud_oraciones, median)
 
 qplot(metadatos$año, mediana_longitud_oraciones)+
   labs(x = "Año", y = "Longitud media de las oraciones")+
+  geom_text(aes(label=metadatos$presidente),hjust=0, vjust=0, angle = 55)+
   geom_smooth()
-
+?geom_text
 # Paso 10. Guardemos toda la información que tenemos en un espacio y creemos nubes de palabras
 # para cada discurso
 descripcion <- c()
@@ -289,5 +303,3 @@ for (i in 1:length(palabras)) {
   dev.off()
 }
 descripcion
-
-
