@@ -6,7 +6,7 @@ texto = "Taller de Python"  # cadena
 
 num = 35  # entero
 
-floatante = 3.5  # flotante
+flotante = 3.5  # flotante
 
 verdadero = True  # boleano
 
