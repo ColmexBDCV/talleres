@@ -32,11 +32,13 @@ Introducción
 
 Aspectos Básicos de R
 
-- Tipos de variables
-- Operadores
-- Estructuras de datos
-- Funciones
-- Estructuras de control
+- Operaciones, variables y funciones
+- Tipos de datos
+  - Vectores
+  - Matrices
+  - Dataframes
+  - Listas
+- Iteraciones
 
 **Sesión 2 –  Silvia Gutiérrez (martes, 18 de junio)**
 
