@@ -28,17 +28,16 @@ Introducción
 
 - Estructura del curso
 - Uso y estado actual de R como herramienta de análisis de datos y textos
-- Introducción a la IDE de RStudio (consola, directorio de trabajo, paquetes)
+- Introducción a la IDE de RStudio (consola, directorio de trabajo)
 
 Aspectos Básicos de R
 
 - Operaciones, variables y funciones
 - Tipos de datos
   - Vectores
-  - Matrices
   - Dataframes
-  - Listas
-- Iteraciones
+- Paquetes
+- Cómo encontrar ayuda
 
 **Sesión 2 –  Silvia Gutiérrez (martes, 18 de junio)**
 
