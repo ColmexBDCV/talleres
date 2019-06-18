@@ -47,12 +47,12 @@ Manejo de datos
   - Tablas
   - Importar y exportar datos
 - Tibbles y data frames
-- Ordenar datos:
-  - Reunir y esparcir
-  - Separar y unir
-  - Valores faltantes
-  - Datos no ordenados
-
+- Tidy data:
+  -select (seleccionar)
+  -filter (filtrar)
+  -mutate (mutar)
+  -arrange(ordenar)
+  -summarise (resumir)
 **Sesión 3 – Amalia Pulido y Silvia Gutiérrez (miércoles, 19 de junio)**
 
 Visualización de datos -- Amalia Pulido
