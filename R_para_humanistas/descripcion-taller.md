@@ -32,30 +32,42 @@ Introducción
 
 Aspectos Básicos de R
 
-- Operaciones, variables y funciones
+- Operaciones
+- Variables
+- Funciones
 - Tipos de datos
   - Vectores
   - Dataframes
-- Paquetes
-- Cómo encontrar ayuda
+
 
 **Sesión 2 –  Silvia Gutiérrez (martes, 18 de junio)**
 
+
+- Repaso (operaciones, variables, funciones, tipos de datos y escritura de funciones)
+
 Manejo de datos
 
-- Lectura de datos en R.
-  - Tablas
-  - Importar y exportar datos
-- Tibbles y data frames
+- Selección de datos
+- Creación de subconjuntos
+- Lectura de datos externos en R
+
+
+**Sesión 3 – Amalia Pulido y Silvia Gutiérrez (miércoles, 19 de junio)**
+
+Tibbles y data frames
 - Tidy data:
   - select (seleccionar)
   - filter (filtrar)
   - mutate (mutar)
   - arrange(ordenar)
   - summarise (resumir)
-  
 
-**Sesión 3 – Amalia Pulido y Silvia Gutiérrez (miércoles, 19 de junio)**
+Análisis y visualización de textos -- Silvia Gutiérrez
+
+- Creación de corpus
+- Cargar textos
+- Analizar textos
+- Visualizarlos
 
 Visualización de datos -- Amalia Pulido
 
@@ -64,12 +76,7 @@ Visualización de datos -- Amalia Pulido
 - Ajustes
 - Coordenadas
 
-Análisis y visualización de textos -- Silvia Gutiérrez
 
-- Creación de corpus
-- Cargar textos
-- Analizar textos
-- Visualizarlos
 
 **Sesión 4 – Amalia Pulido**
 
@@ -93,7 +100,8 @@ Análisis de datos
 
  Fuentes:
 
-- La organización del curso se basa en _R para principiantes_ de Juan Bosco Mendoza y _R for Data Science_ de Grolemund y Wickham (O&#39;Reilly)
+- Las primeras dos sesiones están basadas en  _R desde Cero_ de [Yanina Bellini Saibene](https://twitter.com/yabellini), *2019*
+- La segunda sesión está basada en parte en 
 - Discovering Statistics Using R, Andy Field, Jeremy Miles and Zoë Field.
 - Otras referencias son: The Art of R Programming, the Norman Matlock, Introductory Statistics with R, de Peter Dalgaard
 
