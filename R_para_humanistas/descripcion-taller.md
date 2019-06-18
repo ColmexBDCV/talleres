@@ -48,11 +48,13 @@ Manejo de datos
   - Importar y exportar datos
 - Tibbles y data frames
 - Tidy data:
-  -select (seleccionar)
-  -filter (filtrar)
-  -mutate (mutar)
-  -arrange(ordenar)
-  -summarise (resumir)
+  - select (seleccionar)
+  - filter (filtrar)
+  - mutate (mutar)
+  - arrange(ordenar)
+  - summarise (resumir)
+  
+
 **Sesión 3 – Amalia Pulido y Silvia Gutiérrez (miércoles, 19 de junio)**
 
 Visualización de datos -- Amalia Pulido
