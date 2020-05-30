@@ -101,8 +101,7 @@ Análisis de datos
  Fuentes:
 
 - Las primeras dos sesiones están basadas en  _R desde Cero_ de [Yanina Bellini Saibene](https://twitter.com/yabellini), *2019*
-- La segunda sesión está basada en parte en 
-- Discovering Statistics Using R, Andy Field, Jeremy Miles and Zoë Field.
+- La segunda sesión está basada en parte en: Discovering Statistics Using R, Andy Field, Jeremy Miles and Zoë Field.
 - Otras referencias son: The Art of R Programming, the Norman Matlock, Introductory Statistics with R, de Peter Dalgaard
 
 -----
