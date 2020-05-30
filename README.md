@@ -5,3 +5,4 @@ Hasta ahora se pueden encontrar:
 2. [Taller de Web Scraping con Python](https://github.com/ColmexBDCV/talleres/tree/master/Web_Scraping) por Rodrigo Cuéllar
 3. [Taller de Github Desktop](https://github.com/ColmexBDCV/talleres/tree/master/Github) y [presentación](http://sandbox.colmex.mx/~silvia/Github/slides-introduccion-a-github.html#/) por Silvia Gutiérrez
 4. [Taller de R para análisis de textos](https://github.com/ColmexBDCV/talleres/tree/master/R_procesamiento_textos) de Silvia Gutiérrez, originalmente publicado en [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2231472.svg)](https://doi.org/10.5281/zenodo.2231472)
+5. [Taller de OpenRefine](https://github.com/ColmexBDCV/talleres/tree/master/OpenRefine) por Silvia Gutiérrez
