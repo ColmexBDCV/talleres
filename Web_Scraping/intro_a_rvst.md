@@ -7,14 +7,14 @@ Introducción a rvest
 >
 > **rvest** es un paquete de R inspirado en beautiful soup de Python
 
-> Trabaja con [[magrittr]] para poder escribir expresiones
+> Trabaja con [magrittr](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html) para poder escribir expresiones
 > compleja como pipelines sencillos (recuerden la sesión del tidyverse y
 > los pipes  %\>%)
 
 1.  Para instalar ejecuta:
 
 ```r
-install.packages(\"rvest\")
+install.packages("rvest")
 ```
 
 2.  Imaginemos que estamos analizando el cine mexicano, específicamente
