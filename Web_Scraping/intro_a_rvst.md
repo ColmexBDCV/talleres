@@ -15,7 +15,9 @@ Introducción a rvest
 
 1.  Para instalar ejecuta:
 
-> install.packages(\"rvest\")
+```r
+install.packages(\"rvest\")
+```
 
 2.  Imaginemos que estamos analizando el cine mexicano, específicamente
     de Iñárritu y queremos sacar algunos datos sobre su película
