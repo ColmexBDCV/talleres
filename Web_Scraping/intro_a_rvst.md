@@ -2,9 +2,7 @@ Introducción a rvest
 ====================
 
 > Por: Silvia Gutiérrez \[CC BY 2.0\]
->
-> **Adaptado de:**https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/**
->
+> Adaptado de:**https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/**
 > **rvest** es un paquete de R inspirado en beautiful soup de Python
 
 > Trabaja con [magrittr](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html) para poder escribir expresiones
