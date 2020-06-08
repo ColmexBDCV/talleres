@@ -32,13 +32,15 @@ amores_perros <-read_html(\"http://www.imdb.com/title/tt0245712/\")
 
 > ![][1]
 
-a.  el selector de CSS: [[\#title-overview-widget]{.underline}] \>
-    div.vital \> div.title\_block \> div \> div.ratings\_wrapper \>
-    div.imdbRating \> div.ratingValue \> strong \> span
+a.  el selector de CSS:
+```css
+#title-overview-widget>div.vital>div.title_block>div> div.ratings_wrapper > div.imdbRating > div.ratingValue > strong > span
+```
 
 b.  o bien, la ruta de XPath:
-    //\*\[\@id=\"title-overview-widget\"\]/div\[2\]/div\[2\]/div/div\[1\]/div\[1\]/div\[1\]/strong/span
-
+```
+//*[@id="title-overview-widget"]/div[2]/div[2]/div/div[1]/div[1]/div[1]/strong/span
+```
 > rvest es muy listo, por lo que no siempre tenemos que copiar toda la
 > ruta sino sólo un pedacito del final, con el siguiente código podrías
 > entonces extraer el rating de la película:
