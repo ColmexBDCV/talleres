@@ -18,8 +18,14 @@ Trabaja con [magrittr](https://github.com/smbache/magrittr) para poder escribir 
 3. Si quisiera extraer el rating de la película, puedo seleccionar esa parte de la página web dar botón derecho, y copiar 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_61CA4BF4009AF57DB891FEA6BAF5E1B30AD0B41746A9C81D2D7B35C727BB74E4_1510811655483_Screenshot+from+2017-11-15+235210.png)
 
-    1. el selector de CSS: #title-overview-widget > div.vital > div.title_block > div > div.ratings_wrapper > div.imdbRating > div.ratingValue > strong > span
-    2. o bien, la ruta de XPath: //*[@id="title-overview-widget"]/div[2]/div[2]/div/div[1]/div[1]/div[1]/strong/span
+    1. el selector de CSS: 
+    ```css
+    #title-overview-widget > div.vital > div.title_block > div > div.ratings_wrapper > div.imdbRating > div.ratingValue > strong > span
+    ```
+    2. o bien, la ruta de XPath: 
+      ```xml
+    //*[@id="title-overview-widget"]/div[2]/div[2]/div/div[1]/div[1]/div[1]/strong/span
+    ```
 
 rvest es muy listo, por lo que no siempre tenemos que copiar toda la ruta sino sólo un pedacito del final, con el siguiente código podrías entonces extraer el rating de la película:
 
