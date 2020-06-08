@@ -3,13 +3,11 @@ Introducción a rvest
 
 > Por: Silvia Gutiérrez \[CC BY 2.0\]
 >
-> **Adaptado de:**
-> [[]{.underline}**https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/**]
+> **Adaptado de:**https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/**
 >
-> **rvest** es un paquete de R inspirado en [[beautiful
-> soup]{.underline}] de Python.
->
-> Trabaja con [[magrittr]{.underline}] para poder escribir expresiones
+> **rvest** es un paquete de R inspirado en beautiful soup de Python
+
+> Trabaja con [[magrittr]] para poder escribir expresiones
 > compleja como pipelines sencillos (recuerden la sesión del tidyverse y
 > los pipes  %\>%)
 
