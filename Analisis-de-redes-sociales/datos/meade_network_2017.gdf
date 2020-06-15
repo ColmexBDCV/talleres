@@ -1,0 +1,325 @@
+nodedef>name VARCHAR,username VARCHAR,label VARCHAR,category VARCHAR,post_activity FLOAT,fan_count INT,talking_about_count INT,users_can_post VARCHAR,link VARCHAR
+560965564045087,JoseAMeadeK,"José Antonio Meade",Politician,0.07,249465,57941,no,https://www.facebook.com/JoseAMeadeK/
+158799440938484,JoseAntonioGonzalezAnaya,"José Antonio González Anaya","Government Official",0.06,35202,900,no,https://www.facebook.com/JoseAntonioGonzalezAnaya/
+185958084780557,,"Radio Fórmula","Local Service",0,13020,0,no,https://www.facebook.com/pages/Radio-F%C3%B3rmula/185958084780557
+518159994889206,SEDESOL.mx,Sedesol,"Government Organization",0.13,627317,2228,no,https://www.facebook.com/SEDESOL.mx/
+398512273556564,EMBAMEXBELGICA,"Embajada de México en Bélgica, Luxemburgo y -Unión Europea","Consulate & Embassy",0.2,5878,362,no,https://www.facebook.com/EMBAMEXBELGICA/
+120099348087440,FEALAC,"FEALAC (Forum for East Asia-Latin America Cooperation)","Government Organization",0,503,5,yes,https://www.facebook.com/FEALAC/
+192918827546818,EbxCostaRica,"Embajada de México en Costa Rica","Government Organization",0.03,7397,40,no,https://www.facebook.com/EbxCostaRica/
+569500313114772,Gloriasdeldeporte,"Glorias del Deporte MX","Nonprofit Organization",0.03,5278,13,yes,https://www.facebook.com/Gloriasdeldeporte/
+186151651414606,GovMarkDayton,"Governor Mark Dayton & Lt. Governor Tina Smith","Government Official",0.05,36321,2347,no,https://www.facebook.com/GovMarkDayton/
+154298834585547,cepal.onu,Cepal,Organization,0.04,304759,1218,no,https://www.facebook.com/cepal.onu/
+180951338623322,HumphreyFellowship,"The Hubert H Humphrey Fellowship Program","Government Organization",0.02,19709,176,yes,https://www.facebook.com/HumphreyFellowship/
+273859889297027,ConsulmexChicago,"Consulado General de México en Chicago","Consulate & Embassy",0.25,19655,479,no,https://www.facebook.com/ConsulmexChicago/
+96637444189,mexico.usembassy,"Embajada Estados Unidos en México","Government Organization",0.24,1607785,23631,yes,https://www.facebook.com/mexico.usembassy/
+547236048644589,ONUMex,"ONU México",Organization,0.09,102045,1143,no,https://www.facebook.com/ONUMex/
+54779960819,unitednations,"United Nations",Organization,0.13,2571456,18528,no,https://www.facebook.com/unitednations/
+111299225618775,RuizMassieu,"Claudia Ruiz Massieu",Politician,0.14,44966,3726,no,https://www.facebook.com/RuizMassieu/
+54758433924,FCEMexico,"Fondo de Cultura Económica",Bookstore,0.4,633395,3757,yes,https://www.facebook.com/FCEMexico/
+1377346992488414,ricardo.patinoec,"Ricardo Patiño Ec","Public Figure",0.06,25689,171,yes,https://www.facebook.com/ricardo.patinoec/
+121482864578203,CancilleriaEcuador,"Cancillería Ecuador","Government Organization",0.52,71820,749,yes,https://www.facebook.com/CancilleriaEcuador/
+122629161084065,SREMX,SRE,"Government Organization",0.14,658697,2228,no,https://www.facebook.com/SREMX/
+1442472249348643,MEXAMFESTIVAL,"Festival MEX  AM",Community,0.01,1627,2,yes,https://www.facebook.com/MEXAMFESTIVAL/
+213284955396169,EmbassyofMexicoinBelize,"Embassy of Mexico to Belize - Embajada de México en Belice","Government Organization",0.05,4020,23,yes,https://www.facebook.com/EmbassyofMexicoinBelize/
+161299877396709,ConsulmexSF,"Consulado General de México en San Francisco","Consulate & Embassy",0,1179,4,yes,https://www.facebook.com/ConsulmexSF/
+143737056135,laurent.fabius.5,"Laurent Fabius",Politician,0,46426,117,no,https://www.facebook.com/laurent.fabius.5/
+634952736536976,AmbassadeDuMexiqueEnFrance,"Ambassade du Mexique en France / Embajada de México en Francia","Consulate & Embassy",0.12,22880,656,no,https://www.facebook.com/AmbassadeDuMexiqueEnFrance/
+827056840643041,ConsulmexFila,"Consulmex Filadelfia","Government Organization",0.51,4539,185,no,https://www.facebook.com/ConsulmexFila/
+204768989731178,minex.guatemala.9,"Minex Guatemala","Government Organization",0.3,19092,423,no,https://www.facebook.com/minex.guatemala.9/
+297852910247243,MUSEODELACERVOHISTORICOYARTISTICODELASRE,"Museo de la Cancillería MX","History Museum",0.01,7204,19,no,https://www.facebook.com/MUSEODELACERVOHISTORICOYARTISTICODELASRE/
+107367862686045,SecretariaCulturaMx,"Secretaría de Cultura","Government Organization",0.12,705433,2199,no,https://www.facebook.com/SecretariaCulturaMx/
+111101068968572,SecretariadeGobernacion,"Secretaría de Gobernación","Government Organization",0.52,85584,828,yes,https://www.facebook.com/SecretariadeGobernacion/
+124446627574817,COMEXUSFulbrightGR,"COMEXUS Fulbright-García Robles",Education,0.03,25420,49,yes,https://www.facebook.com/COMEXUSFulbrightGR/
+150363031719978,,"Consulado de México en Tucson","Government Organization",0,364,3,no,https://www.facebook.com/Consulado-de-México-en-Tucson-150363031719978/
+714478675232260,consulmex.arizona,"Consulado General de México en Phoenix","Consulate & Embassy",0.1,8076,58,no,https://www.facebook.com/consulmex.arizona/
+46370758585,UNFAO,"Food and Agriculture Organization of the United Nations (FAO)","Nonprofit Organization",0.07,1129437,16289,no,https://www.facebook.com/UNFAO/
+147547541961576,eucouncil,"Council of the European Union","Government Organization",0.09,335702,9844,no,https://www.facebook.com/eucouncil/
+133093236717420,embamexale,"Embajada de México en Alemania - Botschaft von Mexiko in Deutschland","Consulate & Embassy",0.03,13798,184,no,https://www.facebook.com/embamexale/
+728116810582924,embamexecuador,"Embajada de México en Ecuador","Government Organization",0.09,3360,61,no,https://www.facebook.com/embamexecuador/
+686700224785153,,"Consulmex Laredo, Texas","Government Organization",0,412,1,no,https://www.facebook.com/Consulmex-Laredo-Texas-686700224785153/
+199126586891882,palaciodoplanalto,Planalto,"Government Organization",0.08,707558,52569,no,https://www.facebook.com/palaciodoplanalto/
+184900351645788,embfinlandia,"Embassy of Mexico in Finland - Embajada de México en Finlandia","Consulate & Embassy",0.05,8851,4157,no,https://www.facebook.com/embfinlandia/
+1374850302841015,EmbaMexBra,"Embajada de México en Brasil","Government Organization",0.04,2869,86,yes,https://www.facebook.com/EmbaMexBra/
+364602665328,elcolmex,"El Colegio de México - Colmex","Educational Research Center",0.34,191785,2240,no,https://www.facebook.com/elcolmex/
+658417074208968,AMEI.MX.OFICIAL,"Asociación Mexicana de Estudios Internacionales",Education,0.04,8200,83,yes,https://www.facebook.com/AMEI.MX.OFICIAL/
+125578787475414,ItamaratyGovBr,"Ministério das Relações Exteriores","Government Organization",0.06,172151,803,no,https://www.facebook.com/ItamaratyGovBr/
+293928193989,unicefmexico,"UNICEF México","Social Service",0.17,268700,1126,yes,https://www.facebook.com/unicefmexico/
+218627528195123,MisionMexOI,"Misión de México ante los Organismos Internacionales con sede en Ginebra","Government Organization",0,2879,5,yes,https://www.facebook.com/MisionMexOI/
+571013992963175,EmbaMexPan,"Embajada de México en Panamá","Government Organization",0.03,2817,21,yes,https://www.facebook.com/EmbaMexPan/
+952989934730776,embajadamexico.enhaiti.1,"Embajada México En Haití","Government Organization",0.07,2285,21,yes,https://www.facebook.com/embajadamexico.enhaiti.1/
+120927384594177,polska,Poland.pl,"Government Organization",0.05,61692,4090,no,https://www.facebook.com/polska/
+196244807064385,PISMPoland,"Polski Instytut Spraw Międzynarodowych - PISM","Public & Government Service",0.04,11689,59,no,https://www.facebook.com/PISMPoland/
+106023406156130,UNESCOes,"UNESCO en español","Nonprofit Organization",0.1,429608,8362,no,https://www.facebook.com/UNESCOes/
+211762248837773,,"Embajada de Mexico en Argelia - Ambassade du Mexique  en Algerie","Government Organization",0,1190,6,no,https://www.facebook.com/Embajada-de-Mexico-en-Argelia-Ambassade-du-Mexique-en-Algerie-211762248837773/
+436163556425723,,"Abdelmalek SELLAL Premier Ministre",Politician,0.01,8380,22,yes,https://www.facebook.com/Abdelmalek-SELLAL-Premier-Ministre-436163556425723/
+158402677555776,EuropeanExternalActionService,"European External Action Service - EEAS","Government Organization",0.04,183315,14474,no,https://www.facebook.com/EuropeanExternalActionService/
+138054849601176,UEenMEXICO,"Unión Europea en México","Consulate & Embassy",0.03,79413,847,yes,https://www.facebook.com/UEenMEXICO/
+142756225902222,EmbamexSantaLucia,"Embamex Santa Lucia","Government Organization",0.03,1504,4,yes,https://www.facebook.com/EmbamexSantaLucia/
+723494557724306,EmbamexIndonesia,"Embassy of Mexico in Indonesia","Passport & Visa Service",0.03,1234,18,no,https://www.facebook.com/EmbamexIndonesia/
+705083399526834,embamex.ucrania,"Embajada De México Ucrania","Consulate & Embassy",0.02,2684,8,no,https://www.facebook.com/embamex.ucrania/
+491460674291221,embamex.paraguay,"Embajada de México en Paraguay","Consulate & Embassy",0.05,3274,21,no,https://www.facebook.com/embamex.paraguay/
+334829620051176,EmbamexRDominicana,"Embajada de México en la República Dominicana","Government Organization",0.05,1187,35,yes,https://www.facebook.com/EmbamexRDominicana/
+771094739599813,embamex.dinamarca,"Embamex Dinamarca","Government Organization",0.1,2438,14,no,https://www.facebook.com/embamex.dinamarca/
+274441046076528,embamex.filipinas,"Embamex Filipinas","Government Organization",0.05,1298,129,no,https://www.facebook.com/embamex.filipinas/
+324213054409644,embamex.nigeria,"Embamex Nigeria","Government Organization",0,1670,3,yes,https://www.facebook.com/embamex.nigeria/
+666970026670169,embamexespana,"Embajada de México en España","Consulate & Embassy",0.06,5568,202,no,https://www.facebook.com/embamexespana/
+350302628449260,EmbamexPaisesBajos,"Embajada de México en los Países Bajos","Consulate & Embassy",0.04,4412,177,no,https://www.facebook.com/EmbamexPaisesBajos/
+230838406928810,EmbamexNZ,"Embamex NZ","Government Organization",0.03,1642,7,yes,https://www.facebook.com/EmbamexNZ/
+201205063241565,embmexperu,"Embajada de México en el Perú","Consulate & Embassy",0.62,6212,39,no,https://www.facebook.com/embmexperu/
+242602672539872,,"Embajada de México en Italia","Government Organization",0.04,6130,54,no,https://www.facebook.com/Embajada-de-México-en-Italia-242602672539872/
+131075240315773,EmbassyOfMexicoInIndia,"Embajada de México en India - Embassy of Mexico in India","Government Organization",0.15,8589,346,no,https://www.facebook.com/EmbassyOfMexicoInIndia/
+115560035126811,embamexcan,"Embajada de México en Canadá","Government Organization",0.09,17340,55,no,https://www.facebook.com/embamexcan/
+197875093581996,EmbamexCol,"Embajada de México en Colombia","Government Organization",0.1,10085,111,yes,https://www.facebook.com/EmbamexCol/
+147735782103255,EmbMexSui,"Embajada de México en Suiza","Consulate & Embassy",0.04,3317,32,no,https://www.facebook.com/EmbMexSui/
+352349034893536,EmbamexEUA,"Embajada de México en Estados Unidos","Consulate & Embassy",0.04,9269,83,no,https://www.facebook.com/EmbamexEUA/
+201958359902746,,"Embamex Chile","Government Organization",0.32,2210,21,yes,https://www.facebook.com/Embamex-Chile-201958359902746/
+114271408610458,EmbamexRusia,"Embamex Rusia","Consulate & Embassy",0.03,3372,26,no,https://www.facebook.com/EmbamexRusia/
+370809212950918,EmbamexAustralia,"Embamex Australia","Government Organization",0.11,3703,22,yes,https://www.facebook.com/EmbamexAustralia/
+197866996938638,Embamexru,"Embamex Reino Unido","Public & Government Service",0.07,12183,117,no,https://www.facebook.com/Embamexru/
+140652276001912,embamexguatemala,"Embajada de México en Guatemala","Public & Government Service",0.08,17090,365,yes,https://www.facebook.com/embamexguatemala/
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
+560965564045087,158799440938484,true
+560965564045087,185958084780557,true
+560965564045087,518159994889206,true
+560965564045087,398512273556564,true
+560965564045087,120099348087440,true
+560965564045087,192918827546818,true
+560965564045087,569500313114772,true
+560965564045087,186151651414606,true
+560965564045087,154298834585547,true
+560965564045087,180951338623322,true
+560965564045087,273859889297027,true
+560965564045087,96637444189,true
+560965564045087,547236048644589,true
+560965564045087,54779960819,true
+560965564045087,111299225618775,true
+560965564045087,54758433924,true
+560965564045087,1377346992488414,true
+560965564045087,121482864578203,true
+560965564045087,122629161084065,true
+560965564045087,1442472249348643,true
+560965564045087,213284955396169,true
+560965564045087,161299877396709,true
+560965564045087,143737056135,true
+560965564045087,634952736536976,true
+560965564045087,827056840643041,true
+560965564045087,204768989731178,true
+560965564045087,297852910247243,true
+560965564045087,107367862686045,true
+560965564045087,111101068968572,true
+560965564045087,124446627574817,true
+560965564045087,150363031719978,true
+560965564045087,714478675232260,true
+560965564045087,46370758585,true
+560965564045087,147547541961576,true
+560965564045087,133093236717420,true
+560965564045087,728116810582924,true
+560965564045087,686700224785153,true
+560965564045087,199126586891882,true
+560965564045087,184900351645788,true
+560965564045087,1374850302841015,true
+560965564045087,364602665328,true
+560965564045087,658417074208968,true
+560965564045087,125578787475414,true
+560965564045087,293928193989,true
+560965564045087,218627528195123,true
+560965564045087,571013992963175,true
+560965564045087,952989934730776,true
+560965564045087,120927384594177,true
+560965564045087,196244807064385,true
+560965564045087,106023406156130,true
+560965564045087,211762248837773,true
+560965564045087,436163556425723,true
+560965564045087,158402677555776,true
+560965564045087,138054849601176,true
+560965564045087,142756225902222,true
+560965564045087,723494557724306,true
+560965564045087,705083399526834,true
+560965564045087,491460674291221,true
+560965564045087,334829620051176,true
+560965564045087,771094739599813,true
+560965564045087,274441046076528,true
+560965564045087,324213054409644,true
+560965564045087,666970026670169,true
+560965564045087,350302628449260,true
+560965564045087,230838406928810,true
+560965564045087,201205063241565,true
+560965564045087,242602672539872,true
+560965564045087,131075240315773,true
+560965564045087,115560035126811,true
+560965564045087,197875093581996,true
+560965564045087,147735782103255,true
+560965564045087,352349034893536,true
+560965564045087,201958359902746,true
+560965564045087,114271408610458,true
+560965564045087,370809212950918,true
+560965564045087,197866996938638,true
+560965564045087,140652276001912,true
+518159994889206,560965564045087,true
+120099348087440,192918827546818,true
+192918827546818,560965564045087,true
+192918827546818,120099348087440,true
+192918827546818,184900351645788,true
+192918827546818,1374850302841015,true
+192918827546818,571013992963175,true
+192918827546818,297852910247243,true
+192918827546818,133093236717420,true
+192918827546818,122629161084065,true
+154298834585547,54779960819,true
+273859889297027,398512273556564,true
+273859889297027,111299225618775,true
+273859889297027,154298834585547,true
+273859889297027,560965564045087,true
+273859889297027,54779960819,true
+273859889297027,352349034893536,true
+273859889297027,122629161084065,true
+96637444189,111101068968572,true
+96637444189,122629161084065,true
+96637444189,124446627574817,true
+547236048644589,154298834585547,true
+547236048644589,54779960819,true
+547236048644589,293928193989,true
+54779960819,46370758585,true
+121482864578203,1377346992488414,true
+121482864578203,140652276001912,true
+121482864578203,96637444189,true
+122629161084065,111299225618775,true
+122629161084065,106023406156130,true
+122629161084065,218627528195123,true
+122629161084065,197866996938638,true
+122629161084065,161299877396709,true
+122629161084065,714478675232260,true
+122629161084065,723494557724306,true
+122629161084065,131075240315773,true
+122629161084065,952989934730776,true
+122629161084065,140652276001912,true
+122629161084065,634952736536976,true
+122629161084065,184900351645788,true
+122629161084065,274441046076528,true
+122629161084065,352349034893536,true
+122629161084065,666970026670169,true
+122629161084065,771094739599813,true
+122629161084065,192918827546818,true
+122629161084065,197875093581996,true
+122629161084065,115560035126811,true
+122629161084065,201958359902746,true
+122629161084065,1374850302841015,true
+122629161084065,213284955396169,true
+122629161084065,398512273556564,true
+122629161084065,370809212950918,true
+122629161084065,133093236717420,true
+122629161084065,54779960819,true
+122629161084065,1442472249348643,true
+122629161084065,297852910247243,true
+122629161084065,518159994889206,true
+1442472249348643,107367862686045,true
+1442472249348643,161299877396709,true
+213284955396169,107367862686045,true
+213284955396169,111101068968572,true
+213284955396169,122629161084065,true
+161299877396709,1442472249348643,true
+143737056135,158402677555776,true
+143737056135,634952736536976,true
+204768989731178,121482864578203,true
+204768989731178,122629161084065,true
+297852910247243,106023406156130,true
+107367862686045,1442472249348643,true
+111101068968572,111299225618775,true
+124446627574817,180951338623322,true
+124446627574817,122629161084065,true
+124446627574817,96637444189,true
+714478675232260,352349034893536,true
+714478675232260,122629161084065,true
+46370758585,106023406156130,true
+46370758585,154298834585547,true
+46370758585,54779960819,true
+147547541961576,158402677555776,true
+199126586891882,54779960819,true
+199126586891882,125578787475414,true
+184900351645788,122629161084065,true
+184900351645788,133093236717420,true
+184900351645788,560965564045087,true
+184900351645788,518159994889206,true
+184900351645788,107367862686045,true
+658417074208968,364602665328,true
+658417074208968,518159994889206,true
+658417074208968,138054849601176,true
+658417074208968,122629161084065,true
+125578787475414,199126586891882,true
+125578787475414,54779960819,true
+293928193989,138054849601176,true
+293928193989,111101068968572,true
+293928193989,96637444189,true
+293928193989,122629161084065,true
+293928193989,46370758585,true
+293928193989,547236048644589,true
+293928193989,518159994889206,true
+293928193989,54779960819,true
+293928193989,154298834585547,true
+218627528195123,111299225618775,true
+218627528195123,560965564045087,true
+218627528195123,197866996938638,true
+218627528195123,142756225902222,true
+218627528195123,352349034893536,true
+218627528195123,571013992963175,true
+218627528195123,491460674291221,true
+218627528195123,201958359902746,true
+218627528195123,201205063241565,true
+218627528195123,370809212950918,true
+218627528195123,114271408610458,true
+218627528195123,398512273556564,true
+218627528195123,666970026670169,true
+218627528195123,242602672539872,true
+218627528195123,133093236717420,true
+218627528195123,350302628449260,true
+218627528195123,293928193989,true
+218627528195123,184900351645788,true
+218627528195123,147735782103255,true
+218627528195123,634952736536976,true
+218627528195123,213284955396169,true
+218627528195123,131075240315773,true
+218627528195123,197875093581996,true
+218627528195123,211762248837773,true
+218627528195123,140652276001912,true
+218627528195123,115560035126811,true
+218627528195123,122629161084065,true
+952989934730776,218627528195123,true
+120927384594177,196244807064385,true
+196244807064385,120927384594177,true
+106023406156130,122629161084065,true
+106023406156130,107367862686045,true
+106023406156130,54779960819,true
+211762248837773,133093236717420,true
+211762248837773,197875093581996,true
+158402677555776,46370758585,true
+158402677555776,138054849601176,true
+158402677555776,54779960819,true
+158402677555776,147547541961576,true
+138054849601176,122629161084065,true
+138054849601176,158402677555776,true
+142756225902222,122629161084065,true
+771094739599813,122629161084065,true
+230838406928810,122629161084065,true
+242602672539872,122629161084065,true
+131075240315773,122629161084065,true
+131075240315773,518159994889206,true
+131075240315773,293928193989,true
+131075240315773,106023406156130,true
+115560035126811,122629161084065,true
+197875093581996,107367862686045,true
+197875093581996,122629161084065,true
+147735782103255,122629161084065,true
+352349034893536,122629161084065,true
+114271408610458,370809212950918,true
+114271408610458,666970026670169,true
+114271408610458,197866996938638,true
+114271408610458,398512273556564,true
+114271408610458,115560035126811,true
+114271408610458,122629161084065,true
+140652276001912,197875093581996,true
+140652276001912,107367862686045,true
+140652276001912,571013992963175,true
+140652276001912,204768989731178,true
+140652276001912,192918827546818,true
+140652276001912,352349034893536,true
+140652276001912,122629161084065,true

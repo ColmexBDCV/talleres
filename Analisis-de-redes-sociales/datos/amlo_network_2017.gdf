@@ -1,0 +1,1196 @@
+nodedef>name VARCHAR,username VARCHAR,label VARCHAR,category VARCHAR,post_activity FLOAT,fan_count INT,talking_about_count INT,users_can_post VARCHAR,link VARCHAR
+122070839781,lopezobrador.org.mx,"Andres Manuel Lopez Obrador",Politician,5,2216505,198553,yes,https://www.facebook.com/lopezobrador.org.mx/
+236361933088013,RadioLaNuevaRepublica,"Radio La Nueva República","Media/News Company",0.23,5957,375,yes,https://www.facebook.com/RadioLaNuevaRepublica/
+349995665094283,Revolucion3.0,"Revolución TresPuntoCero","News & Media Website",1.49,212298,15112,yes,https://www.facebook.com/Revolucion3.0/
+267666565815,RegeneracionPeriodico,Regeneración,"Media/News Company",4.36,2417734,458650,yes,https://www.facebook.com/RegeneracionPeriodico/
+100761541821,radioamlo.org,RadioAMLO,"Political Organization",1.46,562972,105599,yes,https://www.facebook.com/radioamlo.org/
+625361444188392,HugoSadhOficial,"Hugo Sadh Oficial","Media/News Company",0.19,27358,611,yes,https://www.facebook.com/HugoSadhOficial/
+1010312058984399,celiamayagarcia,"Celia Maya García",Politician,0.01,3646,8,yes,https://www.facebook.com/celiamayagarcia/
+273819506007849,,"Morena Mty Sur",Community,0.04,1179,87,yes,https://www.facebook.com/Morena-Mty-Sur-273819506007849/
+396760337173589,greciabenavidesf,GreciaBenavides,Politician,0.01,3079,62,yes,https://www.facebook.com/greciabenavidesf/
+152532968193747,,"Morenaje Venustiano Carranza","Political Organization",0,1311,0,yes,https://www.facebook.com/Morenaje-Venustiano-Carranza-152532968193747/
+379948168728857,MorenaAtlacomulco,"Morena Atlacomulco",Cause,0.01,1863,2,yes,https://www.facebook.com/MorenaAtlacomulco/
+470422123087055,morenalomasdelbosque,Morena,"Political Party",0,2236,5,yes,https://www.facebook.com/morenalomasdelbosque/
+204678886378191,,"Morena Milpa Alta","Political Organization",0.01,1341,9,yes,https://www.facebook.com/Morena-Milpa-Alta-204678886378191/
+263537803710621,,"Jerez es Morena","Political Organization",0,1249,1,yes,https://www.facebook.com/Jerez-es-Morena-263537803710621/
+777508362307102,,"MORENA El Limón Jalisco","Political Party",0.01,1863,3,yes,https://www.facebook.com/MORENA-El-Limón-Jalisco-777508362307102/
+568272763230167,,"Morena Coyoacan Oriente","Political Organization",0.03,1632,11,yes,https://www.facebook.com/Morena-Coyoacan-Oriente-568272763230167/
+307579629350994,elmorenaguerrero,"Morena Guerrero","Political Organization",0.01,4219,123,yes,https://www.facebook.com/elmorenaguerrero/
+192843740872603,,"Morena Zumpango del Rio, Municipio de Eduardo Neri.","Political Party",0,79,1,yes,https://www.facebook.com/Morena-Zumpango-del-Rio-Municipio-de-Eduardo-Neri-192843740872603/
+327841947339861,,"Morena Tierra Caliente","Political Party",0.02,1381,15,yes,https://www.facebook.com/Morena-Tierra-Caliente-327841947339861/
+810824788956906,Pablo.Sandoval.Ballesteros,"Pablo Sandoval Ballesteros",Politician,0.03,8574,1036,yes,https://www.facebook.com/Pablo.Sandoval.Ballesteros/
+668757669858725,,"Morena Houston","Political Organization",0.01,1410,3,yes,https://www.facebook.com/Morena-Houston-668757669858725/
+784970301525521,estentor.delpueblo,"Esténtor Corresponsales del Pueblo","Media/News Company",0,2932,2,yes,https://www.facebook.com/estentor.delpueblo/
+396365923856174,morena.coyotepecedomex,"Coordinación y Dirigencia de morena Coyotepec","Political Party",0.03,4313,38,yes,https://www.facebook.com/morena.coyotepecedomex/
+1579827722250698,morenatolucaoficial,"Morena Toluca Oficial","Political Organization",0.05,1528,64,yes,https://www.facebook.com/morenatolucaoficial/
+147157108711633,marti.batresguadarrama,"Martí Batres",Politician,0.2,88265,64953,yes,https://www.facebook.com/marti.batresguadarrama/
+347848278725642,ramirezmarcoramirez,"Marco Antonio Ramírez Ramírez",Politician,0.03,1557,18,yes,https://www.facebook.com/ramirezmarcoramirez/
+201793196647844,,"Red Nacional Contra la Represión",Community,0.16,944,8,yes,https://www.facebook.com/Red-Nacional-Contra-la-Represión-201793196647844/
+222515801223921,,"Vecinos La Quebrada","Public & Government Service",0.25,11128,697,yes,https://www.facebook.com/Vecinos-La-Quebrada-222515801223921/
+177699325701178,chihuahuamorena,"MORENA CHIHUAHUA","Political Party",0.09,8283,686,yes,https://www.facebook.com/chihuahuamorena/
+1512194212328287,MorenaNLDistrito7,"Morena NL Monterrey Centro-Poniente","Political Party",0.01,1276,16,yes,https://www.facebook.com/MorenaNLDistrito7/
+124837931032338,bunkerchiapas,Elbunkerdelchamuco,"News & Media Website",14.81,35613,12861,no,https://www.facebook.com/bunkerchiapas/
+344513549035443,xochitlzagalramirez,"Xóchitl Nashielly Zagal Ramírez",Politician,0.01,1046,145,no,https://www.facebook.com/xochitlzagalramirez/
+180812578627109,Desinformemonos,Desinformémonos,"Media/News Company",1.75,2071807,69727,yes,https://www.facebook.com/Desinformemonos/
+133034430130141,radiocadenamigenteoficial,"Radio Cadena Mi Gente (OFICIAL)","Broadcasting & Media Production Company",0.38,8528,1073,yes,https://www.facebook.com/radiocadenamigenteoficial/
+298038153640799,ProtestMusica,"Musica De Protesta Y Revolucion Global",Community,12.06,25270,1141,yes,https://www.facebook.com/ProtestMusica/
+839524149409094,morenadejandohuella,"Morena Dejando Huella        ""Trazando El Camino De Un Mexico Nuevo ""","Radio Station",0,1906,3,yes,https://www.facebook.com/morenadejandohuella/
+422532567881482,BibliotecaPopularRosarioIbarra,"Biblioteca Popular Rosario Ibarra de Piedra",Library,0.02,1243,12,yes,https://www.facebook.com/BibliotecaPopularRosarioIbarra/
+185089968313206,BibliotecaPopularEhecatl,"Biblioteca Popular Ehécatl",Library,0,914,1,yes,https://www.facebook.com/BibliotecaPopularEhecatl/
+249378928419092,BrigadaParaLeerEnLibertad,"Brigada Para Leer En Libertad","Nonprofit Organization",0.1,28362,2144,yes,https://www.facebook.com/BrigadaParaLeerEnLibertad/
+149037448581898,centroculturaleljuglar,"El Juglar, Arte y Cultura","Nonprofit Organization",0,11137,17,yes,https://www.facebook.com/centroculturaleljuglar/
+656758067718533,,"Pablo Moctezuma Barragan/Mexteki","Political Organization",0,1532,6,yes,https://www.facebook.com/Pablo-Moctezuma-BarraganMexteki-656758067718533/
+123287797835083,razadebroncesinfronteras,"Raza De Bronce Sin Fronteras",Community,0.01,72279,657,yes,https://www.facebook.com/razadebroncesinfronteras/
+129028527163066,buzonmx,"Colectivo Buzón Ciudadano - Circulos de Reflexión","Political Organization",0.03,7817,2494,no,https://www.facebook.com/buzonmx/
+584127458276019,JuventudESMorenaSinaloa,"Juventud ES Morena Sinaloa","Political Party",0,1884,1,yes,https://www.facebook.com/JuventudESMorenaSinaloa/
+141619505908669,,"MORENA  NAYARIT","Political Organization",0.07,1533,60,yes,https://www.facebook.com/MORENA-NAYARIT-141619505908669/
+340958586033320,MorenaNaucalpan,"Morena Naucalpan","Political Party",0.04,3231,52,yes,https://www.facebook.com/MorenaNaucalpan/
+126387260842229,LaBibliobici,"La Bibliobici",Author,0,707,1,yes,https://www.facebook.com/LaBibliobici/
+224239444327748,izcallimorena,"Morena Cuautitlán Izcalli","Political Party",0.35,13451,329,yes,https://www.facebook.com/izcallimorena/
+151811328277581,rubenluengasnoticias,"Ruben Luengas","News Personality",0.13,35995,1910,yes,https://www.facebook.com/rubenluengasnoticias/
+259511037434610,itstimeforwomen,"Tiempo de Mujeres CFRU 93.3 FM","Community Organization",0.02,828,2,yes,https://www.facebook.com/itstimeforwomen/
+126713977400955,Tlacaeleloficial,Tlacaélel,Community,2.08,446519,58409,yes,https://www.facebook.com/Tlacaeleloficial/
+414908481895813,MorenajeTamaulipas,"Tomás Sánchez Lara",Politician,0,1226,1,yes,https://www.facebook.com/MorenajeTamaulipas/
+213946288747041,MorenaEsEsperanza,"Morena Somos México","Political Party",0.25,1758,429,yes,https://www.facebook.com/MorenaEsEsperanza/
+361071783917083,UNTyPP,"Técnicos y Profesionistas Petroleros",Organization,0.05,1414,141,yes,https://www.facebook.com/UNTyPP/
+346705012025586,DoloresPadiernaOficial,"Dolores Padierna","Public Figure",0.16,17507,404,no,https://www.facebook.com/DoloresPadiernaOficial/
+122234181184516,temasdenuestrahistoriaunam,"Temas de Nuestra Historia",Podcast,0.01,2989,2,yes,https://www.facebook.com/temasdenuestrahistoriaunam/
+235906546466043,mixlr,Mixlr,"Internet Company",0,383600,273,no,https://www.facebook.com/mixlr/
+122961617864224,,"Yo Soy #132 Y Siempre Lo Sere","Media/News Company",0,4511,5,yes,https://www.facebook.com/Yo-Soy-132-Y-Siempre-Lo-Sere-122961617864224/
+421302334583470,RedGeneracion,"Red Generación","Media/News Company",0,1988,0,yes,https://www.facebook.com/RedGeneracion/
+266884246747195,medioslibresmx,"Medios Libres MX","Media/News Company",0.02,2766,7,yes,https://www.facebook.com/medioslibresmx/
+203016323160477,El5poder.org,el5poder.org,"Media/News Company",0.02,5770,82,yes,https://www.facebook.com/El5poder.org/
+514460295234822,BibliotecaPacoIgnacioTaiboII,"Biblioteca Popular ""Paco Ignacio Taibo II"".",Library,0,3471,5,yes,https://www.facebook.com/BibliotecaPacoIgnacioTaiboII/
+296249107075301,MtroCesarSoto,"César Soto Morales Soluciones Legales y Comercio Exterior","Business & Economy Website",0.01,1554,1,yes,https://www.facebook.com/MtroCesarSoto/
+109093612588416,CEEMorenaEdomex,"Morena Estado de México","Political Party",0.03,34216,636,yes,https://www.facebook.com/CEEMorenaEdomex/
+281280305248828,morenainter,"Morena Internacional",Organization,0.19,46566,3168,yes,https://www.facebook.com/morenainter/
+422328387784132,CivilizacionYBarbarie,"Civilización y Barbarie",Community,0.02,553,6,yes,https://www.facebook.com/CivilizacionYBarbarie/
+141807259170528,guecomumex,"Guerrilla Comunicacional México","News & Media Website",0.64,567404,43384,yes,https://www.facebook.com/guecomumex/
+148344958534675,losgastospendejos,"Los Gastos Pendejos",Community,0.63,373239,14689,yes,https://www.facebook.com/losgastospendejos/
+203951739624404,,"Ruben Luengas En Contexto","News Personality",0.08,7179,343,yes,https://www.facebook.com/Ruben-Luengas-En-Contexto-203951739624404/
+114123431998361,UAMComunidad,UAMComunidad,"College & University",0.09,88186,302,yes,https://www.facebook.com/UAMComunidad/
+257328147627744,ipn.mx,"Instituto Politécnico Nacional",School,0.3,717024,23092,no,https://www.facebook.com/ipn.mx/
+125299054202386,UNAM.MX.Oficial,"UNAM Universidad Nacional Autónoma de México",Education,0.51,2227939,227563,yes,https://www.facebook.com/UNAM.MX.Oficial/
+215547488473853,pajaropolitico,"Animal Político","News & Media Website",1.06,1267907,52572,yes,https://www.facebook.com/pajaropolitico/
+113140512981,RevistadelaUniversidad,"Revista de la Universidad de México",Magazine,0.1,175730,259,no,https://www.facebook.com/RevistadelaUniversidad/
+92465443899,R.Indigo,"Reporte Índigo","Media/News Company",2.6,582573,39241,yes,https://www.facebook.com/R.Indigo/
+34562992774,RevistaAlgarabia,"Revista Algarabía",Magazine,0.34,753507,31430,yes,https://www.facebook.com/RevistaAlgarabia/
+54758433924,FCEMexico,"Fondo de Cultura Económica",Bookstore,0.4,633395,3757,yes,https://www.facebook.com/FCEMexico/
+183919588401049,AristeguiOnline,"Aristegui Noticias","Media/News Company",3.89,7641631,246464,yes,https://www.facebook.com/AristeguiOnline/
+8039493705,lajornadaonline,"La Jornada",Newspaper,2.31,2831924,208091,yes,https://www.facebook.com/lajornadaonline/
+153094742922,revistaproceso,"Revista Proceso","Book & Magazine Distributor",2.9,4692749,230103,no,https://www.facebook.com/revistaproceso/
+80339078404,FMDELCARMENTUCOMUNITARIA,"FM Del Carmen",Community,0.01,1309,3,yes,https://www.facebook.com/FMDELCARMENTUCOMUNITARIA/
+1406085029605952,AlzalaVozYaMX,"Acento Capital","News & Media Website",0,27121,17,yes,https://www.facebook.com/AlzalaVozYaMX/
+742429659132995,luiselquedibuja,"Luis el que dibuja",Journalist,0.01,1561,22,yes,https://www.facebook.com/luiselquedibuja/
+1866841113541701,contribuyentes.mx,"Contribuyentes México",Community,0,9193,13,yes,https://www.facebook.com/contribuyentes.mx/
+904727159592986,CarmenOss.Artista,"Carmen Ossorio",Artist,0.01,469,1,yes,https://www.facebook.com/CarmenOss.Artista/
+1570302473226149,mamonera,"Ma Monera",Artist,0,900,4,yes,https://www.facebook.com/mamonera/
+1463332093971575,cartonespoliticosdon,Don,Artist,0.01,565,10,yes,https://www.facebook.com/cartonespoliticosdon/
+231776320252115,PazRevolucionMx,"Paz Revolución",Cause,0.05,180680,368,yes,https://www.facebook.com/PazRevolucionMx/
+294468630182,,"Noam Chomsky",Author,0.01,1271185,2474,no,https://www.facebook.com/Noam-Chomsky-294468630182/
+296334033272,ActualidadRT,"RT en Español","TV Network",5.66,5680279,528118,yes,https://www.facebook.com/ActualidadRT/
+114050161948682,Reuters,Reuters,"Media/News Company",2.73,3916402,115365,no,https://www.facebook.com/Reuters/
+62398583826,reforma,reforma.com,"News & Media Website",2.75,877233,73592,yes,https://www.facebook.com/reforma/
+35622749584,LilaDownsOficial,"Lila Downs",Musician/Band,0.15,1261544,14499,yes,https://www.facebook.com/LilaDownsOficial/
+189166114446552,AngelBoligan,Boligán,Artist,0.02,30267,450,no,https://www.facebook.com/AngelBoligan/
+145350102183716,RevistaElChamuco,"El Chamuco y los hijos del Averno",Magazine,0.39,195954,74864,no,https://www.facebook.com/RevistaElChamuco/
+180689001975866,Antonio.Helguera.Monero,"Antonio  Helguera. Monero",Artist,0.03,15833,682,yes,https://www.facebook.com/Antonio.Helguera.Monero/
+393662177345636,,"Patricio Monero",Journalist,0.06,85452,9073,yes,https://www.facebook.com/Patricio-Monero-393662177345636/
+496537230366487,somosredes,"Redes Universitarias","Nonprofit Organization",0.04,13386,116,yes,https://www.facebook.com/somosredes/
+1542581082736391,,"IztacalcoNoticias Periodismo","Media/News Company",0.08,32519,1877,no,https://www.facebook.com/IztacalcoNoticias-Periodismo-1542581082736391/
+130205230503187,NoresteMX,"Noreste Informativo","Media/News Company",0.26,21948,22619,yes,https://www.facebook.com/NoresteMX/
+187202484700616,MovimientoMigranteMesoamericano,"Movimiento Migrante Mesoamericano","Non-Governmental Organization (NGO)",0.11,14645,1732,yes,https://www.facebook.com/MovimientoMigranteMesoamericano/
+557581764410778,,"Casa de Cultura IV República","Recreation Center",0.01,563,2,yes,https://www.facebook.com/Casa-de-Cultura-IV-República-557581764410778/
+501907223322872,NoALosCartelesInmobiliarios,"No a las inmobiliarias",Community,0,1627,0,yes,https://www.facebook.com/NoALosCartelesInmobiliarios/
+11450328749,JLMelenchon,"Jean-Luc Mélenchon",Politician,1.24,1045783,35893,yes,https://www.facebook.com/JLMelenchon/
+373192849511617,frentejuvenil.xochicuautla,"Frente Juvenil Xochicuautla",Community,0.01,8621,10,yes,https://www.facebook.com/frentejuvenil.xochicuautla/
+450737538291762,UnidadPopularMexico,"Unidad Popular",Community,0.19,4329,96,yes,https://www.facebook.com/UnidadPopularMexico/
+266744503447667,morenaYuc,"Morena Yucatán","Political Party",0.03,5425,141,yes,https://www.facebook.com/morenaYuc/
+1394160850905471,rogeriocastrovazquez,"Rogerio Castro Vázquez",Politician,0.03,13278,817,yes,https://www.facebook.com/rogeriocastrovazquez/
+1375903655973561,Morenatixkokob,"Morena Tixkokob","Political Party",0.01,404,0,yes,https://www.facebook.com/Morenatixkokob/
+1670434293181246,EduardoMoralesDiazDeLeon,"Eduardo Morales Díaz de León",Politician,0.02,1734,67,yes,https://www.facebook.com/EduardoMoralesDiazDeLeon/
+863571513715297,,"Morena Cuauhtemoc Cultura",Community,0,1905,2,yes,https://www.facebook.com/Morena-Cuauhtemoc-Cultura-863571513715297/
+712408592128209,berthalujanuranga,"Bertha Luján Uranga",Politician,0.03,8488,2003,yes,https://www.facebook.com/berthalujanuranga/
+394719017368393,Batiz.Bernardo,"Bernardo Bátiz Vázquez",Politician,0.01,1862,9,yes,https://www.facebook.com/Batiz.Bernardo/
+952832954735117,AraceliDamianMorena,"Araceli Damián",Politician,0.03,6384,2252,yes,https://www.facebook.com/AraceliDamianMorena/
+396546643733953,BrujulaMetropolitana,"Brujula Metropolitana","Cultural Center",0.02,1732,99,yes,https://www.facebook.com/BrujulaMetropolitana/
+447397342083356,VirgilioCaballeroMX,"Virgilio Caballero",Politician,0.03,2897,134,yes,https://www.facebook.com/VirgilioCaballeroMX/
+583224905037488,,"Morena Cancún Oficial","Political Organization",0.01,1086,6,yes,https://www.facebook.com/Morena-Cancún-Oficial-583224905037488/
+1430687307248374,morenamujeres.Xochimilco,"Morena Mujeres Xochimilco","Political Organization",0.02,3850,227,yes,https://www.facebook.com/morenamujeres.Xochimilco/
+298224756935253,,"Morena Cozumel","Bar & Grill",0,355,7,yes,https://www.facebook.com/Morena-Cozumel-298224756935253/
+377671629054421,revistapolemon,Polemon,Magazine,0.06,81342,19462,yes,https://www.facebook.com/revistapolemon/
+184310521619366,VTVtuCanal,VTVCanal8,"TV Channel",1.01,501216,33720,no,https://www.facebook.com/VTVtuCanal/
+758454210867749,olegariacarrazco.morena,"Olegaria Carrazco Macías",Teacher,0,331,0,yes,https://www.facebook.com/olegariacarrazco.morena/
+102551913153712,RicardoMonrealA,"Ricardo Monreal A.","Government Official",0.28,644197,15758,yes,https://www.facebook.com/RicardoMonrealA/
+1552909008273979,coordinadorauagroapoyaayotzi,"Coordinadora Universitaria en apoyo a la Normal Rural de Ayotzinapa",Community,0,3799,1,yes,https://www.facebook.com/coordinadorauagroapoyaayotzi/
+395857933818101,RamloOax,Militante,Community,0,338,1,yes,https://www.facebook.com/RamloOax/
+103344326667066,morenaecatepecdistritoX,"Morena Ecatepec Distrito 10","Government Building",0,3777,4,yes,https://www.facebook.com/morenaecatepecdistritoX/
+160490930628132,RQTR.LGTB,RQTR,Community,0.01,2112,50,yes,https://www.facebook.com/RQTR.LGTB/
+451787838190912,morenatecamac,"Morena Tecámac","Political Organization",0.02,8910,120,yes,https://www.facebook.com/morenatecamac/
+482986288508642,defiendeapuebla,"Defiende a Puebla",Community,0,654,0,yes,https://www.facebook.com/defiendeapuebla/
+308237919281432,morenamazatlan.mx,"Morena Mazatlán","Political Party",0.01,1699,12,yes,https://www.facebook.com/morenamazatlan.mx/
+362761080532273,morenaaguascalientesoficial,"Morena Aguascalientes","Public Figure",0.03,1115,3,yes,https://www.facebook.com/morenaaguascalientesoficial/
+811807355526734,,"Morena Rumbo al 2018 con AMLO.","Political Party",0,988,0,yes,https://www.facebook.com/Morena-Rumbo-al-2018-con-AMLO-811807355526734/
+208357545969744,JovenesMorenaQ.Roo,"Jóvenes Morena Quintana Roo","Political Organization",0.06,1898,703,yes,https://www.facebook.com/JovenesMorenaQ.Roo/
+206671606134859,SubVersiones,"Subversiones · Agencia Autónoma de Comunicación",Community,0.03,34957,330,yes,https://www.facebook.com/SubVersiones/
+479681268841947,telesurenglish,"teleSUR English","News & Media Website",1.5,380673,75632,yes,https://www.facebook.com/telesurenglish/
+387142621360485,mmsc1996,"Movimiento Mexicano de Solidaridad con Cuba","Political Organization",0.04,2635,25,yes,https://www.facebook.com/mmsc1996/
+740241916022662,,"Embajada de Cuba en México","Government Organization",0.05,8457,109,no,https://www.facebook.com/Embajada-de-Cuba-en-México-740241916022662/
+291878247499787,prodh,"Centro Prodh","Non-Governmental Organization (NGO)",0.17,31429,4848,yes,https://www.facebook.com/prodh/
+340416656061064,DHFestMexico,"DHFest México",Organization,0,6536,4,yes,https://www.facebook.com/DHFestMexico/
+268537163192769,FUNDEM.Mx,"Fuerzas Unidas por Nuestros Desaparecidos en México","Non-Governmental Organization (NGO)",0.02,7644,10,no,https://www.facebook.com/FUNDEM.Mx/
+373096991909,aida.espanol,AIDA,"Non-Governmental Organization (NGO)",0.09,11455,264,yes,https://www.facebook.com/aida.espanol/
+312637775433157,MORENA.MX.FR,"Morena Francia",Organization,0,9092,2,yes,https://www.facebook.com/MORENA.MX.FR/
+341991265887663,,"La Bastilla mexicana","Radio Station",0.01,756,3,yes,https://www.facebook.com/La-Bastilla-mexicana-341991265887663/
+510363392346274,morenaciudaddemexico,"Comités de Base Morena Ciudad de México","Political Organization",0.21,17524,1251,yes,https://www.facebook.com/morenaciudaddemexico/
+595521690541262,FyU.MORENA,"Morena Los Ángeles Ca. Comite Fuerza y Unidad","Political Organization",0.08,2954,424,yes,https://www.facebook.com/FyU.MORENA/
+222707714570596,,"Grupo Cultural Independiente Axolotl",Community,0.03,1066,1,yes,https://www.facebook.com/Grupo-Cultural-Independiente-Axolotl-222707714570596/
+246439382170754,,"Noticias México",Organization,0.01,3476,6,yes,https://www.facebook.com/Noticias-México-246439382170754/
+130407717075977,ElGritoMas,"El Grito más Fuerte",Community,0.02,81718,143,yes,https://www.facebook.com/ElGritoMas/
+297748463673678,MORENASLP1,"Morena San Luis Potosí Oficial","Political Organization",0.04,3767,88,yes,https://www.facebook.com/MORENASLP1/
+550508784965012,yosoymorena01,"Yo soy Morena",Organization,0.03,1072,39,no,https://www.facebook.com/yosoymorena01/
+496657657025582,morenasinaloa.mx,"MORENA Sinaloa","Political Party",0.06,6805,2641,no,https://www.facebook.com/morenasinaloa.mx/
+130547930313602,ElBarzonNacional,"El Barzón Nacional","Non-Governmental Organization (NGO)",0.04,10711,99,yes,https://www.facebook.com/ElBarzonNacional/
+131281007072656,DiversexMorenaRadio,"DiverSex Morena Radio","Media/News Company",0.02,152,1,yes,https://www.facebook.com/DiversexMorenaRadio/
+181088175412749,,"Secundaria para trabajadores #93 ""Arqueles Vela""",School,0,101,0,yes,https://www.facebook.com/Secundaria-para-trabajadores-93-Arqueles-Vela-181088175412749/
+376882058994633,morenaorizaba,"Morena Orizaba","Political Party",0.01,1159,11,yes,https://www.facebook.com/morenaorizaba/
+484565434970355,ActivismoMexicoo,"Activismo México",Cause,0.23,21709,490,yes,https://www.facebook.com/ActivismoMexicoo/
+1523684637885283,ComitedeLuchaIPN,"Comité de Lucha Estudiantil del Politécnico","Political Organization",0.07,29068,78,yes,https://www.facebook.com/ComitedeLuchaIPN/
+349381801862862,movimientomagisterialveracruzano1,"Movimiento Magisterial Veracruzano","Community Organization",0,1134,2,yes,https://www.facebook.com/movimientomagisterialveracruzano1/
+611930515496614,,"Movimiento Veracruzano Normalista -Movernos",Community,0,9752,5,yes,https://www.facebook.com/Movimiento-Veracruzano-Normalista-Movernos-611930515496614/
+302747233960,RadioTepoztlan92.3FM,"Radio Tepoztlán","Broadcasting & Media Production Company",0.05,5665,28,yes,https://www.facebook.com/RadioTepoztlan92.3FM/
+213165565475057,circuloazcapotzalco,"Círculo de Reflexión Azcapotzalco",Community,0,345,0,yes,https://www.facebook.com/circuloazcapotzalco/
+248647128590613,CarloEchegoyen,"ME  Photographer",Camera/Photo,0,3406,10,yes,https://www.facebook.com/CarloEchegoyen/
+163513930337086,Diasp.org,Diasp.org,Product/Service,0,4131,3,yes,https://www.facebook.com/Diasp.org/
+91584380730,P2PFoundation,"P2P Foundation","Nonprofit Organization",0.08,10772,150,yes,https://www.facebook.com/P2PFoundation/
+139998322690446,,XMPP,Product/Service,0,1856,2,yes,https://www.facebook.com/XMPP-139998322690446/
+325824244199337,,"Los Exiliados",Community,0,1465,3,yes,https://www.facebook.com/Los-Exiliados-325824244199337/
+488596641151168,LaResistenciaSomosTodos,"La Resistencia","Nonprofit Organization",0.04,50674,235,yes,https://www.facebook.com/LaResistenciaSomosTodos/
+276768352422256,Somoselmedio,"Somos el medio.org","Media/News Company",0.42,118495,16575,yes,https://www.facebook.com/Somoselmedio/
+329595987124774,Revolucionandoelpensamiento,"Revolucionando el Pensamiento",Community,0.23,106745,2052,yes,https://www.facebook.com/Revolucionandoelpensamiento/
+421817564517253,SocialMarketingEnsenada,"Social Marketing Ensenada",Community,0,1707,2,yes,https://www.facebook.com/SocialMarketingEnsenada/
+270619946360402,MORENA.INGLATERRA,"Mexicanos en Inglaterra con AMLO 2018","Political Organization",0,2010,17,yes,https://www.facebook.com/MORENA.INGLATERRA/
+340274039355662,MorenaMelbourne,"Morena Australia",Community,0.01,1564,0,yes,https://www.facebook.com/MorenaMelbourne/
+21483278421,tintanymarcelo,"Tin Tan",Artist,0.01,261342,921,yes,https://www.facebook.com/tintanymarcelo/
+56002156467,,"RIUS (Eduardo del Rio)",Author,0.01,73252,65,yes,https://www.facebook.com/RIUS-Eduardo-del-Rio-56002156467/
+52668503585,Canal22Mexico,"Canal 22 México","TV Channel",0.35,669441,34321,no,https://www.facebook.com/Canal22Mexico/
+39062279848,Cultura.UNAM.pagina,"Cultura UNAM","Cultural Center",0.18,1200181,4775,no,https://www.facebook.com/Cultura.UNAM.pagina/
+56713285274,greenpeacemexico,"Greenpeace México","Nonprofit Organization",0.1,938740,21647,no,https://www.facebook.com/greenpeacemexico/
+133958726712817,MorenaImagen,"Morena Imagen",Politician,0,2959,2,yes,https://www.facebook.com/MorenaImagen/
+7270241753,youtube,YouTube,Product/Service,8.03,83436537,190949,yes,https://www.facebook.com/youtube/
+187061817979400,fernandeznorona,"Gerardo Fernández Noroña",Politician,0.17,632883,49203,yes,https://www.facebook.com/fernandeznorona/
+223021181091653,,"Colectivo Alternativa Latinoamericana-CFRU 93.3 FM",Community,0.04,452,2,yes,https://www.facebook.com/Colectivo-Alternativa-Latinoamericana-CFRU-933-FM-223021181091653/
+128584993893524,RadioAMLO.TV,RadioAMLO.TV,"TV Channel",0.09,13488,225,yes,https://www.facebook.com/RadioAMLO.TV/
+230337066995143,OceanSur,"Ocean Sur","Media/News Company",0.1,7661,337,no,https://www.facebook.com/OceanSur/
+222560017798642,,Denunciaabusomx,Cause,0,17534,31,yes,https://www.facebook.com/Denunciaabusomx-222560017798642/
+175675547046,amauryperezweb,"La Pagina de Amaury Perez",Musician/Band,0.02,3180,145,yes,https://www.facebook.com/amauryperezweb/
+86824138799,UnidosPodemosMas,"ALEJANDRO ENCINAS",Politician,0.24,35090,245,no,https://www.facebook.com/UnidosPodemosMas/
+104249126287035,,"Organización Cultural Mujeres de Fuego",Organization,0.01,4662,5,yes,https://www.facebook.com/Organización-Cultural-Mujeres-de-Fuego-104249126287035/
+141597715852636,elinfierno,"EL INFIERNO",Movie,0,1217368,1044,yes,https://www.facebook.com/elinfierno/
+45442260037,comolohago,"Como Lo Hago","Education Website",0,17022,36,yes,https://www.facebook.com/comolohago/
+111857915501530,jovenesamlo,"Red Nacional de Jóvenes con Andrés Manuel López Obrador","Political Organization",0,43571,40,yes,https://www.facebook.com/jovenesamlo/
+188048496301,techtastico,Techtastico,"Computers & Internet Website",0,14044,7,yes,https://www.facebook.com/techtastico/
+123415554354619,,"Por una cultura diferente","Non-Governmental Organization (NGO)",0.09,961,9,yes,https://www.facebook.com/Por-una-cultura-diferente-123415554354619/
+116822240550,,Boing!,Community,0,12596,6,yes,https://www.facebook.com/Boing-116822240550/
+239021749027,frasesypensamientos.com.ar,"Frases y Pensamientos","Society & Culture Website",0.22,6584022,21491,no,https://www.facebook.com/frasesypensamientos.com.ar/
+149449978404016,elEscribano,"El Escribano Analfabeta","Society & Culture Website",0,780,1,yes,https://www.facebook.com/elEscribano/
+279690070244,,"Redes Ciudadanas Jalisco","Nonprofit Organization",0,313,0,no,https://www.facebook.com/Redes-Ciudadanas-Jalisco-279690070244/
+127008873995750,YoApoyoalSME,"Apoyamos el regreso de los trabajadores del SME",Community,0,6126,2,yes,https://www.facebook.com/YoApoyoalSME/
+98299121655,alianzabolivariana,"Alianza Bolivariana para los Pueblos de América",Community,0.01,34516,30,no,https://www.facebook.com/alianzabolivariana/
+26555228268,Don.Eduardo.Galeano,"Mar de Fueguitos de Eduardo Galeano",Writer,0.3,437838,9087,yes,https://www.facebook.com/Don.Eduardo.Galeano/
+196582375615,,"Jaime Avilés - Desfiladero",Author,0,2169,0,yes,https://www.facebook.com/Jaime-Avilés-Desfiladero-196582375615/
+148386218297,comite68.org,"Comité 68 ProLibertades Democráticas","Political Organization",0.02,12447,157,yes,https://www.facebook.com/comite68.org/
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
+122070839781,236361933088013,true
+122070839781,349995665094283,true
+122070839781,267666565815,true
+122070839781,100761541821,true
+236361933088013,625361444188392,true
+236361933088013,1010312058984399,true
+236361933088013,273819506007849,true
+236361933088013,396760337173589,true
+236361933088013,152532968193747,true
+236361933088013,379948168728857,true
+236361933088013,470422123087055,true
+236361933088013,204678886378191,true
+236361933088013,263537803710621,true
+236361933088013,777508362307102,true
+236361933088013,568272763230167,true
+236361933088013,307579629350994,true
+236361933088013,192843740872603,true
+236361933088013,327841947339861,true
+236361933088013,810824788956906,true
+236361933088013,668757669858725,true
+236361933088013,784970301525521,true
+236361933088013,396365923856174,true
+236361933088013,1579827722250698,true
+236361933088013,147157108711633,true
+236361933088013,347848278725642,true
+236361933088013,201793196647844,true
+236361933088013,222515801223921,true
+236361933088013,177699325701178,true
+236361933088013,1512194212328287,true
+236361933088013,124837931032338,true
+236361933088013,344513549035443,true
+236361933088013,180812578627109,true
+236361933088013,133034430130141,true
+236361933088013,349995665094283,true
+236361933088013,100761541821,true
+236361933088013,298038153640799,true
+236361933088013,839524149409094,true
+236361933088013,422532567881482,true
+236361933088013,185089968313206,true
+236361933088013,249378928419092,true
+236361933088013,149037448581898,true
+236361933088013,656758067718533,true
+236361933088013,123287797835083,true
+236361933088013,129028527163066,true
+236361933088013,584127458276019,true
+236361933088013,141619505908669,true
+236361933088013,340958586033320,true
+236361933088013,126387260842229,true
+236361933088013,224239444327748,true
+236361933088013,151811328277581,true
+236361933088013,259511037434610,true
+236361933088013,126713977400955,true
+236361933088013,414908481895813,true
+236361933088013,213946288747041,true
+236361933088013,361071783917083,true
+236361933088013,346705012025586,true
+236361933088013,122234181184516,true
+236361933088013,235906546466043,true
+236361933088013,122961617864224,true
+236361933088013,421302334583470,true
+236361933088013,266884246747195,true
+236361933088013,203016323160477,true
+236361933088013,514460295234822,true
+236361933088013,296249107075301,true
+236361933088013,109093612588416,true
+236361933088013,281280305248828,true
+236361933088013,267666565815,true
+236361933088013,422328387784132,true
+236361933088013,141807259170528,true
+236361933088013,122070839781,true
+236361933088013,148344958534675,true
+236361933088013,203951739624404,true
+236361933088013,114123431998361,true
+236361933088013,257328147627744,true
+236361933088013,125299054202386,true
+236361933088013,215547488473853,true
+236361933088013,113140512981,true
+236361933088013,92465443899,true
+236361933088013,34562992774,true
+236361933088013,54758433924,true
+236361933088013,183919588401049,true
+236361933088013,8039493705,true
+236361933088013,153094742922,true
+349995665094283,80339078404,true
+349995665094283,1406085029605952,true
+267666565815,742429659132995,true
+267666565815,1866841113541701,true
+267666565815,904727159592986,true
+267666565815,1570302473226149,true
+267666565815,1463332093971575,true
+267666565815,231776320252115,true
+267666565815,294468630182,true
+267666565815,296334033272,true
+267666565815,183919588401049,true
+267666565815,114050161948682,true
+267666565815,62398583826,true
+267666565815,35622749584,true
+267666565815,189166114446552,true
+267666565815,145350102183716,true
+267666565815,153094742922,true
+267666565815,180689001975866,true
+267666565815,393662177345636,true
+267666565815,122070839781,true
+267666565815,151811328277581,true
+267666565815,496537230366487,true
+100761541821,1542581082736391,true
+100761541821,130205230503187,true
+100761541821,187202484700616,true
+100761541821,557581764410778,true
+100761541821,501907223322872,true
+100761541821,11450328749,true
+100761541821,373192849511617,true
+100761541821,450737538291762,true
+100761541821,266744503447667,true
+100761541821,1394160850905471,true
+100761541821,1375903655973561,true
+100761541821,1670434293181246,true
+100761541821,863571513715297,true
+100761541821,712408592128209,true
+100761541821,394719017368393,true
+100761541821,952832954735117,true
+100761541821,396546643733953,true
+100761541821,447397342083356,true
+100761541821,583224905037488,true
+100761541821,1430687307248374,true
+100761541821,298224756935253,true
+100761541821,377671629054421,true
+100761541821,184310521619366,true
+100761541821,758454210867749,true
+100761541821,102551913153712,true
+100761541821,1552909008273979,true
+100761541821,395857933818101,true
+100761541821,103344326667066,true
+100761541821,160490930628132,true
+100761541821,451787838190912,true
+100761541821,482986288508642,true
+100761541821,308237919281432,true
+100761541821,362761080532273,true
+100761541821,811807355526734,true
+100761541821,208357545969744,true
+100761541821,1512194212328287,true
+100761541821,206671606134859,true
+100761541821,479681268841947,true
+100761541821,387142621360485,true
+100761541821,740241916022662,true
+100761541821,291878247499787,true
+100761541821,340416656061064,true
+100761541821,268537163192769,true
+100761541821,373096991909,true
+100761541821,312637775433157,true
+100761541821,341991265887663,true
+100761541821,510363392346274,true
+100761541821,595521690541262,true
+100761541821,222707714570596,true
+100761541821,246439382170754,true
+100761541821,130407717075977,true
+100761541821,297748463673678,true
+100761541821,550508784965012,true
+100761541821,496657657025582,true
+100761541821,141619505908669,true
+100761541821,130547930313602,true
+100761541821,131281007072656,true
+100761541821,181088175412749,true
+100761541821,376882058994633,true
+100761541821,484565434970355,true
+100761541821,1523684637885283,true
+100761541821,349381801862862,true
+100761541821,611930515496614,true
+100761541821,302747233960,true
+100761541821,213165565475057,true
+100761541821,248647128590613,true
+100761541821,163513930337086,true
+100761541821,91584380730,true
+100761541821,139998322690446,true
+100761541821,325824244199337,true
+100761541821,393662177345636,true
+100761541821,488596641151168,true
+100761541821,276768352422256,true
+100761541821,329595987124774,true
+100761541821,421817564517253,true
+100761541821,153094742922,true
+100761541821,270619946360402,true
+100761541821,340274039355662,true
+100761541821,21483278421,true
+100761541821,56002156467,true
+100761541821,52668503585,true
+100761541821,39062279848,true
+100761541821,56713285274,true
+100761541821,92465443899,true
+100761541821,133958726712817,true
+100761541821,7270241753,true
+100761541821,187061817979400,true
+100761541821,147157108711633,true
+100761541821,223021181091653,true
+100761541821,128584993893524,true
+100761541821,230337066995143,true
+100761541821,222560017798642,true
+100761541821,175675547046,true
+100761541821,86824138799,true
+100761541821,104249126287035,true
+100761541821,141597715852636,true
+100761541821,45442260037,true
+100761541821,145350102183716,true
+100761541821,148344958534675,true
+100761541821,111857915501530,true
+100761541821,188048496301,true
+100761541821,123415554354619,true
+100761541821,116822240550,true
+100761541821,239021749027,true
+100761541821,149449978404016,true
+100761541821,279690070244,true
+100761541821,127008873995750,true
+100761541821,98299121655,true
+100761541821,26555228268,true
+100761541821,294468630182,true
+100761541821,122070839781,true
+100761541821,267666565815,true
+100761541821,8039493705,true
+100761541821,196582375615,true
+100761541821,148386218297,true
+273819506007849,183919588401049,true
+273819506007849,187061817979400,true
+273819506007849,100761541821,true
+273819506007849,92465443899,true
+273819506007849,267666565815,true
+273819506007849,122070839781,true
+152532968193747,122070839781,true
+152532968193747,100761541821,true
+379948168728857,122070839781,true
+379948168728857,147157108711633,true
+379948168728857,100761541821,true
+204678886378191,281280305248828,true
+204678886378191,224239444327748,true
+204678886378191,451787838190912,true
+204678886378191,312637775433157,true
+204678886378191,122070839781,true
+204678886378191,153094742922,true
+204678886378191,266744503447667,true
+568272763230167,153094742922,true
+568272763230167,810824788956906,true
+568272763230167,393662177345636,true
+568272763230167,151811328277581,true
+568272763230167,712408592128209,true
+568272763230167,267666565815,true
+568272763230167,100761541821,true
+568272763230167,231776320252115,true
+192843740872603,266744503447667,true
+192843740872603,307579629350994,true
+192843740872603,122070839781,true
+327841947339861,183919588401049,true
+327841947339861,267666565815,true
+327841947339861,236361933088013,true
+327841947339861,122070839781,true
+327841947339861,810824788956906,true
+327841947339861,307579629350994,true
+810824788956906,327841947339861,true
+810824788956906,192843740872603,true
+810824788956906,307579629350994,true
+810824788956906,122070839781,true
+396365923856174,102551913153712,true
+396365923856174,267666565815,true
+396365923856174,231776320252115,true
+396365923856174,122070839781,true
+396365923856174,810824788956906,true
+396365923856174,236361933088013,true
+1579827722250698,267666565815,true
+1579827722250698,102551913153712,true
+1579827722250698,62398583826,true
+1579827722250698,414908481895813,true
+1579827722250698,208357545969744,true
+1579827722250698,153094742922,true
+1579827722250698,349995665094283,true
+1579827722250698,122070839781,true
+1579827722250698,1552909008273979,true
+1579827722250698,103344326667066,true
+1579827722250698,100761541821,true
+1579827722250698,296334033272,true
+1579827722250698,148386218297,true
+1579827722250698,8039493705,true
+1579827722250698,514460295234822,true
+1579827722250698,109093612588416,true
+1579827722250698,201793196647844,true
+1579827722250698,177699325701178,true
+1579827722250698,236361933088013,true
+1579827722250698,224239444327748,true
+1579827722250698,296249107075301,true
+1579827722250698,839524149409094,true
+1579827722250698,340958586033320,true
+222515801223921,236361933088013,true
+222515801223921,153094742922,true
+222515801223921,267666565815,true
+222515801223921,62398583826,true
+222515801223921,8039493705,true
+1512194212328287,153094742922,true
+1512194212328287,296334033272,true
+1512194212328287,8039493705,true
+1512194212328287,236361933088013,true
+1512194212328287,349995665094283,true
+1512194212328287,122070839781,true
+1512194212328287,267666565815,true
+124837931032338,236361933088013,true
+344513549035443,8039493705,true
+344513549035443,224239444327748,true
+180812578627109,141807259170528,true
+180812578627109,349995665094283,true
+180812578627109,329595987124774,true
+180812578627109,206671606134859,true
+180812578627109,267666565815,true
+180812578627109,8039493705,true
+180812578627109,183919588401049,true
+180812578627109,215547488473853,true
+180812578627109,276768352422256,true
+180812578627109,187202484700616,true
+180812578627109,291878247499787,true
+180812578627109,153094742922,true
+298038153640799,1523684637885283,true
+298038153640799,501907223322872,true
+298038153640799,393662177345636,true
+298038153640799,114123431998361,true
+298038153640799,377671629054421,true
+298038153640799,373192849511617,true
+298038153640799,129028527163066,true
+298038153640799,187202484700616,true
+298038153640799,422328387784132,true
+298038153640799,104249126287035,true
+298038153640799,222707714570596,true
+298038153640799,62398583826,true
+298038153640799,291878247499787,true
+298038153640799,421302334583470,true
+298038153640799,1552909008273979,true
+298038153640799,148386218297,true
+298038153640799,479681268841947,true
+298038153640799,130547930313602,true
+298038153640799,130407717075977,true
+298038153640799,257328147627744,true
+298038153640799,231776320252115,true
+298038153640799,125299054202386,true
+298038153640799,149037448581898,true
+298038153640799,236361933088013,true
+298038153640799,294468630182,true
+298038153640799,56713285274,true
+298038153640799,625361444188392,true
+298038153640799,1406085029605952,true
+298038153640799,387142621360485,true
+298038153640799,206671606134859,true
+298038153640799,484565434970355,true
+298038153640799,201793196647844,true
+298038153640799,496537230366487,true
+298038153640799,92465443899,true
+298038153640799,215547488473853,true
+298038153640799,54758433924,true
+298038153640799,153094742922,true
+298038153640799,276768352422256,true
+298038153640799,183919588401049,true
+298038153640799,203016323160477,true
+298038153640799,325824244199337,true
+298038153640799,52668503585,true
+298038153640799,8039493705,true
+298038153640799,296334033272,true
+298038153640799,184310521619366,true
+298038153640799,175675547046,true
+298038153640799,35622749584,true
+298038153640799,39062279848,true
+298038153640799,26555228268,true
+298038153640799,122961617864224,true
+298038153640799,349995665094283,true
+298038153640799,180812578627109,true
+298038153640799,151811328277581,true
+298038153640799,145350102183716,true
+298038153640799,187061817979400,true
+298038153640799,266884246747195,true
+298038153640799,267666565815,true
+298038153640799,222560017798642,true
+298038153640799,180689001975866,true
+298038153640799,203951739624404,true
+298038153640799,450737538291762,true
+298038153640799,122070839781,true
+298038153640799,100761541821,true
+298038153640799,141807259170528,true
+298038153640799,148344958534675,true
+298038153640799,329595987124774,true
+298038153640799,7270241753,true
+298038153640799,488596641151168,true
+839524149409094,236361933088013,true
+422532567881482,249378928419092,true
+422532567881482,514460295234822,true
+422532567881482,340958586033320,true
+185089968313206,187061817979400,true
+185089968313206,340958586033320,true
+185089968313206,514460295234822,true
+185089968313206,422532567881482,true
+185089968313206,100761541821,true
+185089968313206,203016323160477,true
+185089968313206,183919588401049,true
+185089968313206,148344958534675,true
+185089968313206,141807259170528,true
+185089968313206,8039493705,true
+185089968313206,54758433924,true
+185089968313206,52668503585,true
+185089968313206,496537230366487,true
+185089968313206,129028527163066,true
+185089968313206,267666565815,true
+185089968313206,128584993893524,true
+185089968313206,249378928419092,true
+123287797835083,180812578627109,true
+123287797835083,56713285274,true
+123287797835083,236361933088013,true
+123287797835083,267666565815,true
+123287797835083,187061817979400,true
+123287797835083,349995665094283,true
+123287797835083,8039493705,true
+123287797835083,183919588401049,true
+123287797835083,122070839781,true
+123287797835083,153094742922,true
+129028527163066,396546643733953,true
+129028527163066,377671629054421,true
+129028527163066,447397342083356,true
+129028527163066,180812578627109,true
+129028527163066,349995665094283,true
+129028527163066,183919588401049,true
+129028527163066,54758433924,true
+129028527163066,153094742922,true
+129028527163066,393662177345636,true
+129028527163066,39062279848,true
+129028527163066,180689001975866,true
+129028527163066,145350102183716,true
+129028527163066,296334033272,true
+129028527163066,151811328277581,true
+129028527163066,294468630182,true
+129028527163066,122070839781,true
+129028527163066,656758067718533,true
+129028527163066,141807259170528,true
+129028527163066,149037448581898,true
+129028527163066,249378928419092,true
+129028527163066,236361933088013,true
+129028527163066,100761541821,true
+129028527163066,213165565475057,true
+129028527163066,267666565815,true
+129028527163066,8039493705,true
+129028527163066,56002156467,true
+584127458276019,362761080532273,true
+584127458276019,267666565815,true
+584127458276019,496657657025582,true
+141619505908669,147157108711633,true
+141619505908669,122070839781,true
+141619505908669,281280305248828,true
+141619505908669,231776320252115,true
+141619505908669,148344958534675,true
+141619505908669,267666565815,true
+141619505908669,35622749584,true
+141619505908669,8039493705,true
+141619505908669,153094742922,true
+340958586033320,422532567881482,true
+340958586033320,451787838190912,true
+340958586033320,224239444327748,true
+340958586033320,141619505908669,true
+340958586033320,387142621360485,true
+340958586033320,128584993893524,true
+340958586033320,122070839781,true
+340958586033320,514460295234822,true
+340958586033320,8039493705,true
+340958586033320,267666565815,true
+340958586033320,109093612588416,true
+340958586033320,307579629350994,true
+340958586033320,496657657025582,true
+340958586033320,266744503447667,true
+340958586033320,281280305248828,true
+224239444327748,347848278725642,true
+224239444327748,344513549035443,true
+224239444327748,451787838190912,true
+224239444327748,584127458276019,true
+224239444327748,422532567881482,true
+224239444327748,496657657025582,true
+224239444327748,340958586033320,true
+224239444327748,185089968313206,true
+224239444327748,148344958534675,true
+224239444327748,236361933088013,true
+224239444327748,296249107075301,true
+224239444327748,122070839781,true
+224239444327748,39062279848,true
+224239444327748,231776320252115,true
+224239444327748,100761541821,true
+224239444327748,514460295234822,true
+224239444327748,109093612588416,true
+224239444327748,267666565815,true
+224239444327748,183919588401049,true
+224239444327748,8039493705,true
+224239444327748,92465443899,true
+224239444327748,114123431998361,true
+224239444327748,257328147627744,true
+224239444327748,125299054202386,true
+224239444327748,153094742922,true
+224239444327748,349995665094283,true
+151811328277581,130407717075977,true
+151811328277581,349995665094283,true
+151811328277581,153094742922,true
+151811328277581,215547488473853,true
+151811328277581,122070839781,true
+151811328277581,141807259170528,true
+151811328277581,267666565815,true
+151811328277581,8039493705,true
+151811328277581,329595987124774,true
+151811328277581,183919588401049,true
+151811328277581,296334033272,true
+151811328277581,92465443899,true
+151811328277581,266884246747195,true
+151811328277581,26555228268,true
+414908481895813,147157108711633,true
+414908481895813,281280305248828,true
+414908481895813,307579629350994,true
+414908481895813,340274039355662,true
+414908481895813,312637775433157,true
+414908481895813,297748463673678,true
+414908481895813,308237919281432,true
+414908481895813,496657657025582,true
+414908481895813,187061817979400,true
+414908481895813,100761541821,true
+414908481895813,122070839781,true
+414908481895813,231776320252115,true
+414908481895813,267666565815,true
+213946288747041,451787838190912,true
+213946288747041,100761541821,true
+213946288747041,147157108711633,true
+213946288747041,224239444327748,true
+213946288747041,122070839781,true
+213946288747041,177699325701178,true
+213946288747041,297748463673678,true
+213946288747041,496657657025582,true
+213946288747041,281280305248828,true
+213946288747041,231776320252115,true
+213946288747041,267666565815,true
+361071783917083,294468630182,true
+361071783917083,8039493705,true
+361071783917083,153094742922,true
+346705012025586,8039493705,true
+346705012025586,62398583826,true
+346705012025586,86824138799,true
+122961617864224,141807259170528,true
+122961617864224,148344958534675,true
+122961617864224,450737538291762,true
+122961617864224,488596641151168,true
+122961617864224,329595987124774,true
+266884246747195,92465443899,true
+514460295234822,422532567881482,true
+514460295234822,54758433924,true
+514460295234822,249378928419092,true
+296249107075301,1579827722250698,true
+296249107075301,839524149409094,true
+296249107075301,296334033272,true
+296249107075301,340958586033320,true
+296249107075301,185089968313206,true
+296249107075301,145350102183716,true
+296249107075301,100761541821,true
+296249107075301,249378928419092,true
+296249107075301,54758433924,true
+296249107075301,514460295234822,true
+296249107075301,109093612588416,true
+109093612588416,267666565815,true
+109093612588416,122070839781,true
+109093612588416,296249107075301,true
+109093612588416,514460295234822,true
+141807259170528,206671606134859,true
+141807259170528,180812578627109,true
+141807259170528,215547488473853,true
+141807259170528,488596641151168,true
+141807259170528,296334033272,true
+141807259170528,393662177345636,true
+141807259170528,39062279848,true
+141807259170528,8039493705,true
+141807259170528,153094742922,true
+141807259170528,148344958534675,true
+141807259170528,145350102183716,true
+148344958534675,482986288508642,true
+148344958534675,124837931032338,true
+148344958534675,488596641151168,true
+148344958534675,141807259170528,true
+203951739624404,151811328277581,true
+203951739624404,8039493705,true
+203951739624404,329595987124774,true
+203951739624404,183919588401049,true
+114123431998361,62398583826,true
+114123431998361,257328147627744,true
+114123431998361,39062279848,true
+114123431998361,54758433924,true
+114123431998361,8039493705,true
+125299054202386,257328147627744,true
+125299054202386,39062279848,true
+215547488473853,114050161948682,true
+34562992774,54758433924,true
+742429659132995,904727159592986,true
+742429659132995,1570302473226149,true
+742429659132995,267666565815,true
+1866841113541701,215547488473853,true
+1866841113541701,231776320252115,true
+1866841113541701,153094742922,true
+1570302473226149,62398583826,true
+1570302473226149,267666565815,true
+231776320252115,1866841113541701,true
+231776320252115,267666565815,true
+231776320252115,281280305248828,true
+231776320252115,122070839781,true
+35622749584,183919588401049,true
+35622749584,39062279848,true
+35622749584,52668503585,true
+35622749584,8039493705,true
+145350102183716,349995665094283,true
+145350102183716,130407717075977,true
+145350102183716,183919588401049,true
+145350102183716,189166114446552,true
+145350102183716,393662177345636,true
+145350102183716,153094742922,true
+145350102183716,215547488473853,true
+145350102183716,54758433924,true
+145350102183716,39062279848,true
+145350102183716,7270241753,true
+145350102183716,21483278421,true
+145350102183716,52668503585,true
+145350102183716,8039493705,true
+145350102183716,56002156467,true
+145350102183716,180689001975866,true
+180689001975866,145350102183716,true
+393662177345636,145350102183716,true
+393662177345636,189166114446552,true
+496537230366487,185089968313206,true
+496537230366487,56002156467,true
+496537230366487,249378928419092,true
+496537230366487,180689001975866,true
+496537230366487,393662177345636,true
+496537230366487,92465443899,true
+496537230366487,145350102183716,true
+496537230366487,183919588401049,true
+496537230366487,100761541821,true
+496537230366487,153094742922,true
+496537230366487,267666565815,true
+496537230366487,8039493705,true
+496537230366487,231776320252115,true
+130205230503187,148344958534675,true
+187202484700616,180812578627109,true
+187202484700616,26555228268,true
+187202484700616,92465443899,true
+187202484700616,35622749584,true
+187202484700616,153094742922,true
+187202484700616,56713285274,true
+187202484700616,8039493705,true
+187202484700616,39062279848,true
+187202484700616,148386218297,true
+450737538291762,122070839781,true
+450737538291762,183919588401049,true
+266744503447667,583224905037488,true
+266744503447667,100761541821,true
+266744503447667,122070839781,true
+266744503447667,1375903655973561,true
+266744503447667,1394160850905471,true
+266744503447667,267666565815,true
+1394160850905471,266744503447667,true
+1394160850905471,122070839781,true
+863571513715297,396546643733953,true
+863571513715297,62398583826,true
+863571513715297,153094742922,true
+863571513715297,8039493705,true
+863571513715297,1579827722250698,true
+863571513715297,267666565815,true
+863571513715297,510363392346274,true
+863571513715297,122070839781,true
+863571513715297,102551913153712,true
+712408592128209,147157108711633,true
+712408592128209,122070839781,true
+394719017368393,122070839781,true
+447397342083356,100761541821,true
+447397342083356,213165565475057,true
+447397342083356,267666565815,true
+447397342083356,122070839781,true
+447397342083356,249378928419092,true
+447397342083356,129028527163066,true
+447397342083356,396546643733953,true
+447397342083356,151811328277581,true
+447397342083356,656758067718533,true
+583224905037488,488596641151168,true
+583224905037488,349995665094283,true
+583224905037488,236361933088013,true
+583224905037488,100761541821,true
+583224905037488,298224756935253,true
+583224905037488,147157108711633,true
+583224905037488,267666565815,true
+583224905037488,231776320252115,true
+583224905037488,122070839781,true
+298224756935253,266744503447667,true
+298224756935253,656758067718533,true
+298224756935253,208357545969744,true
+377671629054421,100761541821,true
+184310521619366,296334033272,true
+758454210867749,100761541821,true
+758454210867749,147157108711633,true
+758454210867749,8039493705,true
+758454210867749,153094742922,true
+758454210867749,496657657025582,true
+758454210867749,308237919281432,true
+758454210867749,122070839781,true
+758454210867749,267666565815,true
+102551913153712,122070839781,true
+451787838190912,122070839781,true
+308237919281432,180689001975866,true
+308237919281432,145350102183716,true
+308237919281432,393662177345636,true
+308237919281432,307579629350994,true
+308237919281432,129028527163066,true
+308237919281432,496537230366487,true
+308237919281432,141807259170528,true
+308237919281432,54758433924,true
+308237919281432,8039493705,true
+308237919281432,183919588401049,true
+308237919281432,148344958534675,true
+308237919281432,62398583826,true
+308237919281432,450737538291762,true
+308237919281432,147157108711633,true
+308237919281432,92465443899,true
+308237919281432,231776320252115,true
+308237919281432,52668503585,true
+308237919281432,349995665094283,true
+308237919281432,222560017798642,true
+308237919281432,153094742922,true
+308237919281432,100761541821,true
+308237919281432,267666565815,true
+308237919281432,122070839781,true
+308237919281432,496657657025582,true
+811807355526734,100761541821,true
+811807355526734,267666565815,true
+811807355526734,349995665094283,true
+811807355526734,236361933088013,true
+811807355526734,122070839781,true
+208357545969744,395857933818101,true
+208357545969744,184310521619366,true
+208357545969744,273819506007849,true
+208357545969744,281280305248828,true
+208357545969744,8039493705,true
+208357545969744,187202484700616,true
+208357545969744,123287797835083,true
+208357545969744,298224756935253,true
+208357545969744,153094742922,true
+208357545969744,180812578627109,true
+208357545969744,129028527163066,true
+208357545969744,1523684637885283,true
+208357545969744,122070839781,true
+208357545969744,583224905037488,true
+208357545969744,183919588401049,true
+208357545969744,141807259170528,true
+208357545969744,584127458276019,true
+208357545969744,296334033272,true
+208357545969744,100761541821,true
+208357545969744,267666565815,true
+208357545969744,349995665094283,true
+740241916022662,257328147627744,true
+740241916022662,153094742922,true
+740241916022662,62398583826,true
+740241916022662,387142621360485,true
+740241916022662,8039493705,true
+340416656061064,349995665094283,true
+340416656061064,180812578627109,true
+340416656061064,257328147627744,true
+340416656061064,125299054202386,true
+340416656061064,34562992774,true
+340416656061064,183919588401049,true
+340416656061064,92465443899,true
+340416656061064,39062279848,true
+340416656061064,153094742922,true
+340416656061064,215547488473853,true
+268537163192769,180812578627109,true
+268537163192769,183919588401049,true
+268537163192769,52668503585,true
+268537163192769,39062279848,true
+268537163192769,8039493705,true
+268537163192769,122070839781,true
+268537163192769,153094742922,true
+268537163192769,215547488473853,true
+373096991909,56713285274,true
+312637775433157,810824788956906,true
+312637775433157,113140512981,true
+312637775433157,128584993893524,true
+312637775433157,281280305248828,true
+312637775433157,141597715852636,true
+312637775433157,62398583826,true
+312637775433157,86824138799,true
+312637775433157,39062279848,true
+312637775433157,100761541821,true
+312637775433157,52668503585,true
+312637775433157,153094742922,true
+312637775433157,8039493705,true
+312637775433157,122070839781,true
+312637775433157,267666565815,true
+312637775433157,187061817979400,true
+341991265887663,100761541821,true
+510363392346274,180689001975866,true
+510363392346274,147157108711633,true
+510363392346274,102551913153712,true
+510363392346274,362761080532273,true
+510363392346274,128584993893524,true
+510363392346274,213165565475057,true
+510363392346274,100761541821,true
+510363392346274,281280305248828,true
+510363392346274,231776320252115,true
+510363392346274,414908481895813,true
+510363392346274,307579629350994,true
+510363392346274,129028527163066,true
+510363392346274,496657657025582,true
+510363392346274,8039493705,true
+510363392346274,183919588401049,true
+510363392346274,153094742922,true
+510363392346274,267666565815,true
+510363392346274,122070839781,true
+246439382170754,103344326667066,true
+246439382170754,153094742922,true
+246439382170754,8039493705,true
+246439382170754,177699325701178,true
+246439382170754,329595987124774,true
+246439382170754,246439382170754,true
+246439382170754,141807259170528,true
+246439382170754,100761541821,true
+246439382170754,183919588401049,true
+297748463673678,393662177345636,true
+297748463673678,273819506007849,true
+297748463673678,145350102183716,true
+297748463673678,267666565815,true
+297748463673678,147157108711633,true
+297748463673678,100761541821,true
+297748463673678,281280305248828,true
+297748463673678,122070839781,true
+297748463673678,183919588401049,true
+297748463673678,153094742922,true
+550508784965012,39062279848,true
+550508784965012,52668503585,true
+550508784965012,56002156467,true
+550508784965012,297748463673678,true
+550508784965012,414908481895813,true
+550508784965012,153094742922,true
+550508784965012,148344958534675,true
+550508784965012,147157108711633,true
+550508784965012,312637775433157,true
+550508784965012,267666565815,true
+550508784965012,100761541821,true
+550508784965012,183919588401049,true
+550508784965012,8039493705,true
+550508784965012,92465443899,true
+550508784965012,231776320252115,true
+550508784965012,122070839781,true
+496657657025582,34562992774,true
+496657657025582,183919588401049,true
+496657657025582,52668503585,true
+496657657025582,62398583826,true
+496657657025582,153094742922,true
+496657657025582,147157108711633,true
+496657657025582,92465443899,true
+496657657025582,450737538291762,true
+496657657025582,148344958534675,true
+496657657025582,222560017798642,true
+496657657025582,267666565815,true
+496657657025582,100761541821,true
+496657657025582,349995665094283,true
+496657657025582,231776320252115,true
+496657657025582,308237919281432,true
+496657657025582,122070839781,true
+130547930313602,8039493705,true
+130547930313602,56713285274,true
+131281007072656,568272763230167,true
+376882058994633,122070839781,true
+484565434970355,625361444188392,true
+1523684637885283,267666565815,true
+1523684637885283,180812578627109,true
+349381801862862,611930515496614,true
+302747233960,56713285274,true
+302747233960,56002156467,true
+213165565475057,249378928419092,true
+213165565475057,129028527163066,true
+248647128590613,276768352422256,true
+248647128590613,206671606134859,true
+248647128590613,329595987124774,true
+139998322690446,139998322690446,true
+488596641151168,100761541821,true
+488596641151168,349995665094283,true
+488596641151168,329595987124774,true
+488596641151168,148344958534675,true
+488596641151168,141807259170528,true
+488596641151168,215547488473853,true
+488596641151168,92465443899,true
+488596641151168,153094742922,true
+488596641151168,8039493705,true
+488596641151168,183919588401049,true
+276768352422256,180812578627109,true
+276768352422256,298038153640799,true
+329595987124774,349995665094283,true
+329595987124774,206671606134859,true
+329595987124774,151811328277581,true
+329595987124774,130407717075977,true
+329595987124774,298038153640799,true
+329595987124774,148344958534675,true
+329595987124774,266884246747195,true
+329595987124774,231776320252115,true
+329595987124774,122070839781,true
+329595987124774,187061817979400,true
+329595987124774,92465443899,true
+329595987124774,215547488473853,true
+329595987124774,488596641151168,true
+329595987124774,62398583826,true
+329595987124774,52668503585,true
+329595987124774,39062279848,true
+329595987124774,183919588401049,true
+329595987124774,296334033272,true
+329595987124774,222560017798642,true
+329595987124774,141807259170528,true
+329595987124774,8039493705,true
+329595987124774,153094742922,true
+329595987124774,145350102183716,true
+329595987124774,100761541821,true
+421817564517253,180812578627109,true
+421817564517253,151811328277581,true
+421817564517253,130547930313602,true
+421817564517253,248647128590613,true
+421817564517253,235906546466043,true
+421817564517253,361071783917083,true
+421817564517253,203016323160477,true
+421817564517253,346705012025586,true
+421817564517253,349995665094283,true
+421817564517253,236361933088013,true
+421817564517253,231776320252115,true
+421817564517253,183919588401049,true
+421817564517253,488596641151168,true
+421817564517253,26555228268,true
+421817564517253,296334033272,true
+421817564517253,329595987124774,true
+421817564517253,56002156467,true
+421817564517253,223021181091653,true
+421817564517253,148386218297,true
+421817564517253,196582375615,true
+421817564517253,294468630182,true
+421817564517253,127008873995750,true
+421817564517253,149449978404016,true
+421817564517253,239021749027,true
+421817564517253,123415554354619,true
+421817564517253,145350102183716,true
+421817564517253,141597715852636,true
+421817564517253,128584993893524,true
+421817564517253,56713285274,true
+421817564517253,52668503585,true
+421817564517253,147157108711633,true
+421817564517253,222560017798642,true
+421817564517253,267666565815,true
+421817564517253,62398583826,true
+421817564517253,187061817979400,true
+421817564517253,92465443899,true
+421817564517253,100761541821,true
+421817564517253,215547488473853,true
+421817564517253,122070839781,true
+421817564517253,148344958534675,true
+421817564517253,153094742922,true
+421817564517253,8039493705,true
+421817564517253,39062279848,true
+421817564517253,141807259170528,true
+270619946360402,183919588401049,true
+270619946360402,148344958534675,true
+270619946360402,281280305248828,true
+270619946360402,128584993893524,true
+270619946360402,312637775433157,true
+270619946360402,122070839781,true
+270619946360402,231776320252115,true
+39062279848,52668503585,true
+39062279848,54758433924,true
+39062279848,125299054202386,true
+56713285274,291878247499787,true
+133958726712817,122070839781,true
+128584993893524,183919588401049,true
+128584993893524,222560017798642,true
+128584993893524,148344958534675,true
+128584993893524,129028527163066,true
+128584993893524,145350102183716,true
+128584993893524,203951739624404,true
+128584993893524,122070839781,true
+128584993893524,92465443899,true
+128584993893524,153094742922,true
+128584993893524,8039493705,true
+128584993893524,267666565815,true
+230337066995143,8039493705,true
+230337066995143,98299121655,true
+86824138799,62398583826,true
+86824138799,125299054202386,true
+86824138799,349995665094283,true
+86824138799,8039493705,true
+86824138799,122070839781,true
+111857915501530,267666565815,true
+111857915501530,147157108711633,true
+111857915501530,86824138799,true
+111857915501530,128584993893524,true
+111857915501530,122070839781,true
+149449978404016,100761541821,true
+149449978404016,127008873995750,true
