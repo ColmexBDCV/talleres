@@ -27,9 +27,6 @@ amores_perros <-read_html(\"http://www.imdb.com/title/tt0245712/\")
 
 3.  Si quisiera extraer el rating de la película, puedo seleccionar esa
     parte de la página web dar botón derecho, y copiar 
-
-> ![][1]
-
 a.  el selector de CSS:
 ```css
 #title-overview-widget>div.vital>div.title_block>div> div.ratings_wrapper > div.imdbRating > div.ratingValue > strong > span
@@ -95,11 +92,9 @@ Sacando jugo a la programación
     encontrar la sección en donde se enlistan las películas que hizo y
     leer esa información
 
-> ![][2]
->
-> ![][3]
->
-> inarritu \<- read\_html(\"http://www.imdb.com/name/nm0327944/\")
+```r  
+inarritu <- read_html("http://www.imdb.com/name/nm0327944/")
+```
 
 2.  Una vez ahí identificamos la sección que corresponde a las películas
     que él dirigió
