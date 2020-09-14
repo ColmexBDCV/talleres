@@ -1,5 +1,5 @@
 # Talleres de Humanidades Digitales y Ciencias de datos
-En este repositorio encontrarán los talleres hechos desde la Coordinación de Innovación Digital de la [Biblioteca Daniel Cosío Villegas]( para diferentes ocasiones.
+En este repositorio encontrarán los talleres hechos desde la Coordinación de Innovación Digital de la [Biblioteca Daniel Cosío Villegas](https://biblioteca.colmex.mx/) para diferentes ocasiones.
 Hasta ahora se pueden encontrar:
 >1. [Taller de R para Bibliotecarios](https://github.com/ColmexBDCV/talleres/tree/master/R_para_bibliotecas) por Silvia Gutiérrez y Rodrigo Cuéllar
 >2. [Talleres de Web Scraping](https://github.com/ColmexBDCV/talleres/tree/master/Web_Scraping)
