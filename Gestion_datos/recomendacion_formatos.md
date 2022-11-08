@@ -2,10 +2,11 @@
 de la Biblioteca Daniel Cosío Villegas (2022) 
 
 Esta versión está bajo la licencia [CC By 4.0 ](https://creativecommons.org/licenses/by/4.0/) Atribución: Biblioteca Daniel Cosío Villegas, 2022.
-*La definición de formatos preferidos debe responder a las políticas institucionales. Esta es solo un material de referencia. Consulte al bibliotecario
+
+> La definición de formatos preferidos debe responder a las políticas institucionales. Esta es solo un material de referencia. Consulte al bibliotecario
 de preservación de una biblioteca.
 
-## Textos:
+## Textos
 **Preservación preferidos: PDF/A**
 * RTF
 * TXT
