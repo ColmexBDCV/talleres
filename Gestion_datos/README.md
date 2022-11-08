@@ -54,21 +54,21 @@ Licencia de los datos
      * fecha: año-mes-día
      * versión: identificar la versión y quien la realiza.
 
-:::success
+::: success
 
 Las máquinas no leen signos de puntuación, tildes, símbolos y espacios. No los utilice. Por ejemplo ~~1.2entrevistas María Yañez (2022).docx~~  tiene los siguiente errores: a) El único punto es el que separa el nombre del archivo y el formato: nombre.jpg. b) Tiene espacios. c) Tiene el símbolo ñ d) Tiene tildes. e) Tiene paréntesis. Un nombramiento correcto sería: **1_2_entrevista_Maria_Yanez_2022.docx**
 
 :::
 
 
-    2.2.1  Siglas o abreviaciones a utilizar para acortar metadatos o información.Por ejemplo,
+   2.2.1  Siglas o abreviaciones a utilizar para acortar metadatos o información.Por ejemplo,
   
 * Para los autores se incluirán las iniciales de los nombres y el primer apellido. Rosario Castellanos == **RC**.
 * Para los títulos de los proyectos se utilizarán las inicales en mayúscula: Proyecto Gestión de Datos de Investigación utilizará la sigla == **GDI**.
 * Para las versiones se utilizará la abreviación y el consecutivo **v01, v02, v03.** o abreviaciones del estado **proce** por proceso, etc. 
      
      
-:::success
+::: success
 
 Siempre que utilice numeración anteceda el cero a los número del 1 al 9. 01, 02, 03. Las computadoras requieren esta información para organizar correctamente sus archivos. En cuanto a la fecha, siempre utilice el formato año-mes-día. El día también debe estar precedido por el cero. 20220306
 
@@ -82,7 +82,7 @@ Siempre que utilice numeración anteceda el cero a los número del 1 al 9. 01, 0
 
 5. Especificación del Software y Hardware necesario para leer los archivos y versiones del software utilizado
 
-:::success
+::: success
 
 Este conjunto de acciones es lo que se denomina **documentación**. Al documentar el sistema de convenciones para el nombramiento cualquier persona sabrá como replicar el nombramiento y cómo buscar archivos de su interés.
 
