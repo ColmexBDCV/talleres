@@ -18,9 +18,9 @@ El motivo por los que se crean es que permiten:
 * Identificar software y hardware vinculado a la captura y procesamiento de datos. 
 
 
-:::success
-Cree al inicio de la investigación un archivo README.txt por cada conjunto de datos, independientemente de si se deposita o no en un repositorio. Actualícelo cada vez que sea necesario
-:::
+   
+> Cree al inicio de la investigación un archivo README.txt por cada conjunto de datos, independientemente de si se deposita o no en un repositorio. Actualícelo cada vez que sea necesario
+ 
 
 ## ¿Dónde guardar un archivo README?
 
@@ -33,13 +33,10 @@ Guarde dentro del directorio del proyecto un README y dentro de cada set de dato
 
 1. Metadatos administrativos
 
-Título del conjunto de datos
-
-Investigador principal
-
-Contacto del investigador
-
-Licencia de los datos
+       * Título del conjunto de datos
+       * Investigador principal
+       * Contacto del investigador
+       * Licencia de los datos
 
 
 2. Metadatos descriptivos
@@ -48,17 +45,17 @@ Licencia de los datos
 
 2.2 Identifique cada uno de los metadatos a utilizar en el nombramiento de archivos según sus necesidades y defínalos en caso de que puedan generar ambiguedad. Recuerde, un nombramiento debe tener la información relevante para que pueda identificar de qué es el archivo. Estos son algunos metadatos: 
 
-     * título: nombre del proyecto
-     * autor: persona que crea el documento
-     * tema: especificación de los temas: entrevistas, informes, encuestas,etc.
-     * fecha: año-mes-día
-     * versión: identificar la versión y quien la realiza.
+      * título: nombre del proyecto
+      * autor: persona que crea el documento
+      * tema: especificación de los temas: entrevistas, informes, encuestas,etc.
+      * fecha: año-mes-día
+      * versión: identificar la versión y quien la realiza.
+     
+     
 
-::: success
+   > Las máquinas no leen signos de puntuación, tildes, símbolos y espacios. No los utilice. Por ejemplo ~~1.2entrevistas María Yañez (2022).docx~~  tiene los siguiente errores: a) El único punto es el que separa el nombre del archivo y el formato: nombre.jpg. b) Tiene espacios. c) Tiene el símbolo ñ d) Tiene tildes. e) Tiene paréntesis. Un nombramiento correcto sería: **1_2_entrevista_Maria_Yanez_2022.docx**
 
-Las máquinas no leen signos de puntuación, tildes, símbolos y espacios. No los utilice. Por ejemplo ~~1.2entrevistas María Yañez (2022).docx~~  tiene los siguiente errores: a) El único punto es el que separa el nombre del archivo y el formato: nombre.jpg. b) Tiene espacios. c) Tiene el símbolo ñ d) Tiene tildes. e) Tiene paréntesis. Un nombramiento correcto sería: **1_2_entrevista_Maria_Yanez_2022.docx**
 
-:::
 
 
    2.2.1  Siglas o abreviaciones a utilizar para acortar metadatos o información.Por ejemplo,
@@ -68,25 +65,20 @@ Las máquinas no leen signos de puntuación, tildes, símbolos y espacios. No lo
 * Para las versiones se utilizará la abreviación y el consecutivo **v01, v02, v03.** o abreviaciones del estado **proce** por proceso, etc. 
      
      
-::: success
+> Siempre que utilice numeración anteceda el cero a los número del 1 al 9. 01, 02, 03. Las computadoras requieren esta información para organizar correctamente sus archivos. En cuanto a la fecha, siempre utilice el formato año-mes-día. El día también debe estar precedido por el cero. 20220306
 
-Siempre que utilice numeración anteceda el cero a los número del 1 al 9. 01, 02, 03. Las computadoras requieren esta información para organizar correctamente sus archivos. En cuanto a la fecha, siempre utilice el formato año-mes-día. El día también debe estar precedido por el cero. 20220306
-
-:::
 
  3. Especificación del orden de los metadatos. Por ejemplo:
  
-       * **id__nombre_titulo_tema_extensionformato**
+    **autor_titulo_tema_version.extensionformato**
 
  4. Especificación de los formatos en los que se deben guardar los archivos. Formatos abiertos o propietarios. 
 
 5. Especificación del Software y Hardware necesario para leer los archivos y versiones del software utilizado
 
-::: success
 
-Este conjunto de acciones es lo que se denomina **documentación**. Al documentar el sistema de convenciones para el nombramiento cualquier persona sabrá como replicar el nombramiento y cómo buscar archivos de su interés.
+> Este conjunto de acciones es lo que se denomina **documentación**. Al documentar el sistema de convenciones para el nombramiento cualquier persona sabrá como replicar el nombramiento y cómo buscar archivos de su interés.
 
-:::
 
 
 ## Referencias 
