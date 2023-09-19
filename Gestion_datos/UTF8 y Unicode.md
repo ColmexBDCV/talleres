@@ -28,7 +28,7 @@ Este caso se resuelve desde Microsoft Office Prodessional Plus 2019. Puede que e
 
 ![](https://docutopia.tupale.co/uploads/ca0823ea706c6e9e2d86f48a6.JPG)
 
-    4. Verifique en la ventana la opción de delimitadores. Al ser un archivo CSV "comma separeted values" se sobre entiende que es un archivo separado por comas. Verifique que este sea el separador y revise los datos en el previsualizador. Una vez esté todo bien proceda a crear el documento. 
+ 4. Verifique en la ventana la opción de delimitadores. Al ser un archivo CSV "comma separeted values" se sobre entiende que es un archivo separado por comas. Verifique que este sea el separador y revise los datos en el previsualizador. Una vez esté todo bien proceda a crear el documento. 
     
 5. De click a la opción **<cargar>** (botón inferior) y se abrirán los datos en la hoja de cálculo en blanco que abrió al iniciar. Ya no tendrá problemas con las ñ, tildes u otros signos. 
     
